@@ -1,0 +1,4274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2022-10-04T12:05:21+03:00">
+	<shop>
+		<name>Singa Service | Синга сервис</name>
+		<company>Синга-Маркет | Singa-Market</company>
+		<url>https://singaservice.ru</url>
+		<platform>Tilda Publishing</platform>
+		<version>1.0</version>
+		<currencies>
+			<currency id="RUB" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="1321699674">Смартфоны и телефоны</category>
+			<category id="4458824319">Смарт-часы и браслеты</category>
+			<category id="7184764051">Аксессуары для смартфонов и смарт-часов</category>
+			<category id="9626800637">Зарядные устройства</category>
+			<category id="2745766683">Защитные стекла</category>
+			<category id="6909941269">Наушники и гарнитуры</category>
+			<category id="1432864833">Портативная акустика</category>
+			<category id="4063952295">Принтеры/МФУ</category>
+			<category id="5818165762">Периферия</category>
+			<category id="3597419495">Запчасти для Apple</category>
+			<category id="2244090128">Запчасти для Android</category>
+			<category id="3391169760">Прочее</category>
+			<category id="3073883430">Все</category>
+			<category id="6733974441">ПК/ноутбуки</category>
+			<category id="9345085979">Планшеты</category>
+		</categories>
+		<offers>
+		<offer id="SC0001-2" group_id="525748609571" available="true">
+			<name>Защитное стекло для iPhone XR - Новый</name>
+			<vendorCode>SC0001-2</vendorCode>
+			<picture>https://static.tildacdn.com/tild3338-6436-4239-a232-666438373237/____.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-525748609571-zaschitnoe-steklo-dlya-iphone-xr?editionuid=960087503281</url>
+			<count>9999</count>
+			<price>199.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>274576668391</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="712363376071" group_id="240208791441" available="true">
+			<name>Кабель зарядный Borofone BX51 Type-C белый 1м - Новый</name>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-240208791441-kabel-zaryadnii-borofone-bx51-type-c-bel?editionuid=712363376071</url>
+			<count>9999</count>
+			<price>199.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>718476405121</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="128" group_id="831243792771" available="true">
+			<name>Samsung Galaxy M52 5G 8/128GB Black - Новый</name>
+			<vendor>Samsung</vendor>
+			<vendorCode>128</vendorCode>
+			<picture>https://static.tildacdn.com/stor3564-3164-4339-b735-326163336436/31969751.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-831243792771-samsung-galaxy-m52-5g-8128gb-black?editionuid=697500196231</url>
+			<count>9999</count>
+			<price>21500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="3" group_id="585818856531" available="true">
+			<name>Samsung Galaxy M33 [SM-M336B/DS] 5G 8/128 ГБ синий - Новый</name>
+			<vendor>Samsung</vendor>
+			<vendorCode>3</vendorCode>
+			<description>
+<![CDATA[
+<br /><br />Сверхплавный FullHD+ экран1 120 Гц<br />4 камеры, основная 50 МП<br />Батарея 5000 мА·ч<br /><br />Подробнее:#nbsp;https://www.samsung.com/ru/smartphones/galaxy-m/galaxy-m33-5g-green-128gb-sm-m336bzggser/
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6263-3439-4832-b537-653961303035/94124996.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-585818856531-samsung-galaxy-m33-sm-m336bds-5g-8128-gb?editionuid=657796238131</url>
+			<count>9999</count>
+			<price>17500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Процессор, частота">2,4 ГГц, 2 ГГц</param>
+			<param name="Процессор, тип">Восьмиядерный</param>
+			<param name="Экран, размеры">167.2 мм (6.6")</param>
+			<param name="Экран, разрешение">1080 x 2408 (FHD+)</param>
+			<param name="Экран, тип">PLS LCD</param>
+			<param name="Экран, глубина цвета">16 млн.</param>
+			<param name="Камера (основная), разрешение">50.0 MП + 5.0 MП + 2.0 MП + 2.0 MП</param>
+			<param name="Камера (основная), диафрагма">F1.8 , F2.2 , F2.4 , F2.4</param>
+			<param name="Камера (основная), зум (цифровой)">до 10x</param>
+			<param name="Камера (фронтальная), разрешение">8.0 МП</param>
+			<param name="Камера (фронтальная), диафрагма">F2.2</param>
+			<param name="Запись видео, зазрешение">UHD 4K (3840 x 2160) для 30 кадров в секунду</param>
+			<param name="Запись видео, замедленное">до 240 кадр./с с HD разрешением</param>
+			<param name="Память (ОЗУ), объем">6 Гб</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="4" group_id="756845071811" available="true">
+			<name>Samsung Galaxy A23 4G [SM-A235F/DSN] 4/64 Гб черный - Новый</name>
+			<vendor>Samsung</vendor>
+			<vendorCode>4</vendorCode>
+			<description>
+<![CDATA[
+<br /><br />Подробнее:#nbsp;https://www.samsung.com/ru/smartphones/galaxy-a/galaxy-a23-black-64gb-sm-a235fzkuser/
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3236-3565-4162-b539-653135656131/ezgifcom-gif-maker.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-756845071811-samsung-galaxy-a23-4g-sm-a235fdsn-464-gb?editionuid=256632753781</url>
+			<count>9999</count>
+			<price>15000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="342" group_id="335389802391" available="true">
+			<name>Samsung Galaxy A33 [SM-A336E/DSN] 5G 8/128gb - Новый</name>
+			<vendor>Samsung</vendor>
+			<vendorCode>342</vendorCode>
+			<description>
+<![CDATA[
+<br /><br />Подробнее:#nbsp;https://www.samsung.com/uk/smartphones/galaxy-a/galaxy-a33-5g-awesome-blue-128gb-sm-a336blbgeub/
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6435-3337-4236-a562-636636363363/ezgifcom-gif-maker.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-335389802391-samsung-galaxy-a33-sm-a336edsn-5g-8128gb?editionuid=561501272791</url>
+			<count>9999</count>
+			<price>20500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="124" group_id="623265712561" available="true">
+			<name>Samsung Galaxy A21s [SM-A217F/DSN] 3/32 Гб синий - Новый</name>
+			<vendor>Samsung</vendor>
+			<vendorCode>124</vendorCode>
+			<picture>https://static.tildacdn.com/tild3939-3538-4664-b362-353563383863/ezgifcom-gif-maker.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-623265712561-samsung-galaxy-a21s-sm-a217fdsn-332-gb-s?editionuid=144836663201</url>
+			<count>9999</count>
+			<price>13000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="133" group_id="115858277281" available="true">
+			<name>Xiaomi 11 Lite [2109119DG] 5G NE 8/258 Гб - Новый</name>
+			<vendor>Xiaomi</vendor>
+			<vendorCode>133</vendorCode>
+			<picture>https://static.tildacdn.com/tild3662-3161-4365-b965-633763326430/ezgifcom-gif-maker.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-115858277281-xiaomi-11-lite-2109119dg-5g-ne-8258-gb?editionuid=996826917871</url>
+			<count>9999</count>
+			<price>26500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="136" group_id="986651764601" available="true">
+			<name>Tecno Spark 8C 4+64GB [KG5N] серый - Новый</name>
+			<vendor>Tecno</vendor>
+			<vendorCode>136</vendorCode>
+			<picture>https://static.tildacdn.com/tild3866-3562-4862-b636-393534376465/ezgifcom-gif-maker.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-986651764601-tecno-spark-8c-464gb-kg5n-serii?editionuid=480513449101</url>
+			<count>9999</count>
+			<price>8500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="137" group_id="206223513871" available="true">
+			<name>6.52" Смартфон realme C11 (2021) 32 ГБ серый - Новый</name>
+			<vendor>Realme</vendor>
+			<vendorCode>137</vendorCode>
+			<picture>https://static.tildacdn.com/tild3965-3133-4333-b933-313137643533/ezgifcom-gif-maker.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-206223513871-652-smartfon-realme-c11-2021-32-gb-serii?editionuid=139988621991</url>
+			<count>9999</count>
+			<price>7500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="130-1" group_id="228381234261" available="true">
+			<name>Honor 50 6+128GB (NTH-NX9) - Новый</name>
+			<vendor>Honor</vendor>
+			<vendorCode>130-1</vendorCode>
+			<picture>https://static.tildacdn.com/tild3933-3632-4164-b634-386435393261/ezgifcom-gif-maker_1.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-228381234261-honor-50-6128gb-nth-nx9?editionuid=991485617001</url>
+			<count>9999</count>
+			<price>28000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="134" group_id="756145154741" available="true">
+			<name>Xiaomi Redmi 10 4/128GB - Новый</name>
+			<vendor>Xiaomi</vendor>
+			<vendorCode>134</vendorCode>
+			<picture>https://static.tildacdn.com/tild3438-3734-4166-b766-313266313565/ezgifcom-gif-maker.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-756145154741-xiaomi-redmi-10-4128gb?editionuid=325023700421</url>
+			<count>9999</count>
+			<price>15500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="132" group_id="141123771061" available="true">
+			<name>Xiaomi 11T 8/256Gb белый - Новый</name>
+			<vendor>Xiaomi</vendor>
+			<vendorCode>132</vendorCode>
+			<description>
+<![CDATA[
+Новый,РСТ,запечатан,8/256гб
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6637-3630-4534-a638-313430306534/ezgifcom-gif-maker_1.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-141123771061-xiaomi-11t-8256gb-belii?editionuid=663396915241</url>
+			<count>9999</count>
+			<price>32500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="96" group_id="848591978451" available="true">
+			<name>ELARI NanoPhone золотой - Новый</name>
+			<vendor>ELARI</vendor>
+			<vendorCode>96</vendorCode>
+			<picture>https://static.tildacdn.com/tild6263-3662-4462-a166-333665363635/ezgifcom-gif-maker.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-848591978451-elari-nanophone-zolotoi?editionuid=492989799231</url>
+			<count>9999</count>
+			<price>3000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="824355114521" group_id="318236313231" available="true">
+			<name>AirPods Pro A2083 A2084 A2190 - Новый</name>
+			<vendor>Apple</vendor>
+			<description>
+<![CDATA[
+<br />Силиконовый чехол в подарок
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3137-3133-4639-b765-643861333163/ezgifcom-gif-maker.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-318236313231-airpods-pro-a2083-a2084-a2190?editionuid=824355114521</url>
+			<count>9999</count>
+			<price>3990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>690994126941</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="162327300661" group_id="772059899981" available="true">
+			<name>AirPods A2065 A2564 A2566 (3-е поколение) - Новый</name>
+			<vendor>Apple</vendor>
+			<description>
+<![CDATA[
+Силиконовый чехол в подарок
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3332-3963-4465-a532-336532386435/ezgifcom-gif-maker.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-772059899981-airpods-a2065-a2564-a2566-3-e-pokolenie?editionuid=162327300661</url>
+			<count>9999</count>
+			<price>1650.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>690994126941</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="279445580611" group_id="653809129851" available="true">
+			<name>Xiaomi Mi Smart Band 5 28354/20796177 - Новый</name>
+			<vendor>Xiaomi</vendor>
+			<description>
+<![CDATA[
+зарядное устройство не идёт в комплекте
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3631-6334-4836-b266-313233333362/ezgifcom-gif-maker.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-653809129851-xiaomi-mi-smart-band-5-2835420796177?editionuid=279445580611</url>
+			<count>9999</count>
+			<price>1500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>445882431911</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="823228604641" group_id="690011753901" available="true">
+			<name>Borofone BR15 зеленый/голубой</name>
+			<vendor>Borofone</vendor>
+			<picture>https://static.tildacdn.com/tild3536-3063-4537-b039-393930636630/ezgifcom-gif-maker.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-690011753901-borofone-br15-zeleniigoluboi?editionuid=823228604641</url>
+			<count>9999</count>
+			<price>1500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>143286483351</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+		</offer>
+		<offer id="409571726181" group_id="690011753901" available="true">
+			<name>Borofone BR15 зеленый/голубой</name>
+			<vendor>Borofone</vendor>
+			<picture>https://static.tildacdn.com/tild3362-3134-4164-a431-376434386132/ezgifcom-gif-maker.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-690011753901-borofone-br15-zeleniigoluboi?editionuid=409571726181</url>
+			<count>9999</count>
+			<price>1500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>143286483351</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+		</offer>
+		<offer id="241224099051" group_id="808200934981" available="true">
+			<name>Переходник Lighting -- 3,5 мм разъём наушников - Новый</name>
+			<vendor>Без бренда</vendor>
+			<picture>https://static.tildacdn.com/tild6566-3132-4163-a239-643964633133/ezgifcom-gif-maker.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-808200934981-perehodnik-lighting-35-mm-razyom-naushni?editionuid=241224099051</url>
+			<count>9999</count>
+			<price>90.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>718476405121</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="484956044161" group_id="632244940001" available="true">
+			<name>Пластина для магнитного держателя Earldom EH87 2шт/уп - Новый</name>
+			<picture>https://static.tildacdn.com/tild6639-3932-4632-a538-373465626634/ezgifcom-gif-maker.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-632244940001-plastina-dlya-magnitnogo-derzhatelya-ear?editionuid=484956044161</url>
+			<count>9999</count>
+			<price>120.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>718476405121</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="703378415001" group_id="968914584971" available="true">
+			<name>Магнитный кабель зарядки hoco U76 1.2 м 2.4 А черный, нейлоновая оплётка - Новый</name>
+			<picture>https://static.tildacdn.com/tild3463-6530-4962-a337-633036643437/ezgifcom-gif-maker.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-968914584971-magnitnii-kabel-zaryadki-hoco-u76-12-m-2?editionuid=703378415001</url>
+			<count>9999</count>
+			<price>500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>718476405121</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="268733179331" group_id="452610994721" available="true">
+			<name>Xiaomi Redmi AirDots TWSEJ04LS - Новый</name>
+			<vendor>Xiaomi</vendor>
+			<picture>https://static.tildacdn.com/tild3237-3432-4639-a530-326563303334/ezgifcom-gif-maker.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-452610994721-xiaomi-redmi-airdots-twsej04ls?editionuid=268733179331</url>
+			<count>9999</count>
+			<price>1200.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>690994126941</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<weight>0.05</weight>
+			<dimensions>0.5/0.3/0.2</dimensions>
+			<param name="Цвет">черный</param>
+			<param name="Модель">AirDots TWSEJ04LS</param>
+			<param name="Конструкция">вкладыши</param>
+			<param name="Шумоподавление">активное</param>
+			<param name="Время работы в режиме разговора, ч">4</param>
+			<param name="Мин. частота, Гц">20</param>
+			<param name="Макс. частота, Гц">20000</param>
+			<param name="Сопротивление, Ом">32</param>
+			<param name="Управление">Взять/положить трубку, Остановка/воспроизведение музыки, Следующий трек</param>
+			<param name="Защита от влаги">да</param>
+			<param name="Диаметр динамика, мм">7.2</param>
+			<param name="Акустическое оформление">закрытое</param>
+			<param name="Крепление наушников">в ушной раковине</param>
+			<param name="Материал амбушюров">силикон</param>
+			<param name="True Wireless">да</param>
+			<param name="Особенности">Технология Multipoint</param>
+			<param name="Способ передачи звука">динамики</param>
+			<param name="Тип подключения">беспроводное</param>
+			<param name="Питание от">аккумулятора</param>
+			<param name="Время работы в режиме ожидания, ч">150</param>
+			<param name="Способ зарядки">от кейса</param>
+			<param name="Время зарядки наушников, мин">40</param>
+			<param name="Модуль связи Bluetooth">5.0</param>
+			<param name="Кабель и штекер">Одностороннее подключение кабеля</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="398224144371" group_id="201845430371" available="true">
+			<name>Колонка беспроводная hoco BS45 Deep sound sports</name>
+			<vendor>Hoco</vendor>
+			<description>
+<![CDATA[
+Может воспроизводить музыку через Bluetooth, AUX кабель, флешку или карту памяти. Есть встроенное радио и возможность ответа на входящие звонки.<br />В комплекте 50 см кабель micro USB.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6534-3361-4536-b736-366439323834/ezgifcom-gif-maker.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-201845430371-kolonka-besprovodnaya-hoco-bs45-deep-sou?editionuid=398224144371</url>
+			<count>9999</count>
+			<price>1400.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>143286483351</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<weight>0.242</weight>
+			<dimensions>9.8/9.8/8.5</dimensions>
+			<param name="Продолжительность зарядки">1,5 ч</param>
+			<param name="Частота">2.4 ГГц</param>
+			<param name="Продолжительность ожидания">200 ч</param>
+			<param name="Продолжительность воспроизведения">2 ч</param>
+			<param name="Продолжительность разговора">2 ч</param>
+			<param name="АЧХ">120-20000 Гц</param>
+			<param name="Поддерживаемые технологии">A2DP/AVRCP/HFP</param>
+			<param name="Емкость аккумулятора">500 мАч</param>
+			<param name="Питание">DC 5V</param>
+			<param name="Диаметр излучателя">Ф57mmX1</param>
+			<param name="Дальность">10 м</param>
+			<param name="Bluetooth, версия">5.0</param>
+		</offer>
+		<offer id="52" group_id="465091966471" available="true">
+			<name>Наушники беспроводные Maimi TW1 V5.0</name>
+			<vendor>MAIMI</vendor>
+			<vendorCode>52</vendorCode>
+			<description>
+<![CDATA[
+Особенности:<br /><br />- Чип наушников имеет низкое потребление энергии и малые задержки.<br /><br />- Заряд наушников сопровождается красным индикатором, при полном заряде индикатор гаснет.<br /><br />Инструкция по использованию:<br /><br />Откройте верхнюю крышку кейса и выньте наушники. Перед открытием включить переключатель бокса для автоматического включения гарнитуры.<br /><br />Сопряжение с другими устройствами:<br /><br />Откройте настройки Bluetooth телефона или другого устройства, найдите имя "TW1" - нажмите, чтобы подключиться.<br /><br />Комплектация:<br />Фирменная коробка - 1 шт.<br />Зарядный кейс - 1 шт.<br />Наушники вкладыши - 2 шт.<br />Зарядный кабель - 1 шт.<br /><br />Перед использованием рекомендуется зарядить.<br /><br />
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3431-3935-4936-b837-373264303237/ezgifcom-gif-maker.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-465091966471-naushniki-besprovodnie-maimi-tw1-v50?editionuid=779327888651</url>
+			<count>9999</count>
+			<price>900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>690994126941</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<weight>0.083</weight>
+			<param name="Питание от">USB</param>
+			<param name="Способ зарядки">от кейса</param>
+			<param name="Bluetooth, версия">5.0</param>
+			<param name="Совместимость">iOS/Android</param>
+			<param name="Емкость аккумулятора (наушник), мАч">30</param>
+			<param name="Емкость аккумулятора (кейс), мАч">300</param>
+			<param name="Продолжительность воспроизведения, ч">3</param>
+			<param name="Продолжительность ожидания, ч">150</param>
+			<param name="Продолжительность зарядки, ч">2</param>
+			<param name="Продолжительность разговора, ч">4</param>
+			<param name="Кол-во циклов зарядки кейса">3-4</param>
+			<param name="Дистанция, м">15-25</param>
+			<param name="Частотный диапазон, Гц">20-20000</param>
+			<param name="Чувствительность, Дб">108</param>
+			<param name="Импеданс (сопротивление), Ом">32</param>
+			<param name="Микрофон, тип">всенаправленный</param>
+			<param name="Шумоподавление, тип">активное</param>
+			<param name="Кейс, разъём">Apple Lighting</param>
+			<param name="Наушники, конструкция">вкладыши</param>
+			<param name="Звук, способ передачи">динамики</param>
+			<param name="Подключение, тип">беспроводное</param>
+			<param name="Микрофон, наличие">да</param>
+			<param name="Наушники, управление, тип">сенсорное</param>
+			<param name="Наушники, крепление">в ушной раковине</param>
+			<param name="Управление, функции">Взять/положить трубку, Остановка/воспроизведение музыки, Предыдущий трек, Регулировка громкости, Следующий трек, Включение/отключение микрофона</param>
+			<param name="Страна-изготовитель">Китай</param>
+		</offer>
+		<offer id="489577096691" group_id="517571997811" available="true">
+			<name>Стекло защитное закаленное изогнутое для умных часов 45mm 9H - Новый</name>
+			<picture>https://static.tildacdn.com/tild3165-3135-4037-b231-313262343161/ezgifcom-gif-maker.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-517571997811-steklo-zaschitnoe-zakalennoe-izognutoe-d?editionuid=489577096691</url>
+			<count>9999</count>
+			<price>300.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>274576668391</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="185621687491" group_id="684716110361" available="true">
+			<name>Стекло защитное закаленное изогнутое для умных часов 40mm 9H - Новый</name>
+			<picture>https://static.tildacdn.com/tild6337-6136-4037-b734-653830313531/ezgifcom-gif-maker.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-684716110361-steklo-zaschitnoe-zakalennoe-izognutoe-d?editionuid=185621687491</url>
+			<count>9999</count>
+			<price>300.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>274576668391</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="902954701391" group_id="143903838431" available="true">
+			<name>Стекло защитное закаленное изогнутое для умных часов 42mm 9H - Новый</name>
+			<picture>https://static.tildacdn.com/tild3233-6230-4137-b031-356231653563/ezgifcom-gif-maker.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-143903838431-steklo-zaschitnoe-zakalennoe-izognutoe-d?editionuid=902954701391</url>
+			<count>9999</count>
+			<price>300.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>274576668391</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="620187260561" group_id="209461550721" available="true">
+			<name>Apple iPhone 14 128/256/512/1024 Гб / Pro / Max - Новый</name>
+			<vendor>Apple</vendor>
+			<description>
+<![CDATA[
+Уважаемые клиенты, теперь вы можете приобрести у нас новые оригинальные устройства Apple Inc. с гарантией по одним из самых низких цен на рынке от наших прямых поставщиков без посредников по параллельному импорту!<br /><br />В продаже и под заказ устройства iPhone, Watch, MacBook, iPad, Pencil, AirPods<br /><br />Наши преимущества:<br /><br />Аксессуары к устройствам в нашем интернет-магазине SINGA-MARKET<br /><br />Сервисное обслуживание и запчасти в нашем сервисном центре SINGA-SERVICE<br /><br />Доставка и выдача Apple iPhone 14 в Ростов-на-Дону на руки и в одном из трех наших пунктов выдачи и сервисного обслуживания<br /><br />-----------------------<br /><br />Apple iPhone :<br /><br />iPhone 14 128Gb Blue (Саудовская Аравия) 95990<br />iPhone 14 128Gb Midnight (Саудовская Аравия) 95990<br />iPhone 14 128Gb Purple (Саудовская Аравия) 101999<br />iPhone 14 128Gb Red (Саудовская Аравия) 95990<br />iPhone 14 128Gb Starlight (Саудовская Аравия) 101999<br />iPhone 14 256Gb Blue (Саудовская Аравия) 109999<br />iPhone 14 256Gb Midnight (Саудовская Аравия) 102999<br />iPhone 14 256Gb Purple (Саудовская Аравия) 107000<br />iPhone 14 256Gb Red (Саудовская Аравия) 107000<br />iPhone 14 256Gb Starlight (Саудовская Аравия) 103000<br />iPhone 14 512Gb Blue (Саудовская Аравия) 120 000<br />iPhone 14 512Gb Midnight 132999<br />iPhone 14 512Gb Purple с 125900<br />iPhone 14 Pro 128Gb Black (Германия) 130990<br />iPhone 14 Pro 128Gb Gold (Германия) 130990<br />iPhone 14 Pro 128Gb Purple (Германия) 130900<br />iPhone 14 Pro 128Gb Silver (Германия) 130990<br />iPhone 14 Pro 1Tb Black (ОАЭ) 210 000<br />iPhone 14 Pro 1Tb Gold (США) 169000<br />iPhone 14 Pro 1Tb Purple (США) 169050<br />iPhone 14 Pro 256Gb Black (США) 135 555<br />iPhone 14 Pro 256Gb Gold (США) 139 000<br />iPhone 14 Pro 256Gb Purple (США) 135900<br />iPhone 14 Pro 256Gb Silver (Германия) 145 000<br />iPhone 14 Pro 512Gb Black (Гонконг) 170 000<br />iPhone 14 Pro 512Gb Gold (Гонконг) 170 000<br />iPhone 14 Pro 512Gb Silver (Гонконг) 170 000<br />iPhone 14 Pro Max 128Gb Black (Гонконг) 174 000<br />iPhone 14 Pro Max 128Gb Gold (Германия) 145000<br />iPhone 14 Pro Max 128Gb Purple (Германия) 146000<br />iPhone 14 Pro Max 128Gb Silver (Германия) 145730<br />iPhone 14 Pro Max 1Tb Purple (Гонконг) 260000<br />iPhone 14 Pro Max 256Gb Black (Гонконг) 170755<br />iPhone 14 Pro Max 256Gb Gold (Гонконг) 170755<br />iPhone 14 Pro Max 256Gb Purple (США) 152 000<br />iPhone 14 Pro Max 256Gb Silver (Гонконг) 168500<br />iPhone 14 Pro Max 512Gb Black (Гонконг) 202 000<br />iPhone 14 Pro Max 512Gb Gold (Гонконг) 199900<br />iPhone 14 Pro Max 512Gb Purple (Гонконг) 193855<br />iPhone 14 Pro Max 512Gb Silver (Гонконг) 199999.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3031-3163-4233-a635-303530336633/FcGxEU9aQAEIXIz_larg.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-209461550721-apple-iphone-14-1282565121024-gb-pro-max?editionuid=620187260561</url>
+			<count>9999</count>
+			<price>95990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="852519178301" group_id="557197864551" available="true">
+			<name>HP laserjet 1022 - Б/у</name>
+			<vendor>HP</vendor>
+			<description>
+<![CDATA[
+Принтер лазерный Ч/Б#nbsp;
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3366-3162-4465-a666-396439353937/13183767.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-557197864551-hp-laserjet-1022?editionuid=852519178301</url>
+			<count>1</count>
+			<price>4000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>406395229551</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">laserjet 1022</param>
+			<param name="Ресурс">2000 страниц</param>
+			<param name="Сфера применения">Для дома</param>
+			<param name="Комплектация">Кабель питания</param>
+			<param name="Состояние">Б/у</param>
+			<param name="Состояние">Б/у</param>
+		</offer>
+		<offer id="426185321471" group_id="556989528771" available="true">
+			<name>HP laserjet 1320 - Б/у</name>
+			<vendor>HP</vendor>
+			<description>
+<![CDATA[
+Принтер лазерный Ч/Б#nbsp;
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3730-6261-4763-b631-376561346363/94996777.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-556989528771-hp-laserjet-1320?editionuid=426185321471</url>
+			<count>1</count>
+			<price>8000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>406395229551</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Ресурс">2500 страниц</param>
+			<param name="Сфера применения">Малый офис, дуплексная печать</param>
+			<param name="Комплектация">Кабель питания</param>
+			<param name="Состояние">Б/у</param>
+			<param name="Состояние">Б/у</param>
+		</offer>
+		<offer id="552633515481" group_id="148734194821" available="true">
+			<name>HP Laserjet 3055 - Б/у</name>
+			<vendor>HP</vendor>
+			<description>
+<![CDATA[
+МФУ лазерный 3в1 Ч/Б
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3634-6261-4831-a564-383562333865/36431131.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-148734194821-hp-laserjet-3055?editionuid=552633515481</url>
+			<count>1</count>
+			<price>7000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>406395229551</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Laserjet 3055</param>
+			<param name="Ресурс">2000 страниц</param>
+			<param name="Сфера применения">Для дома, записная книжка</param>
+			<param name="Комплектация">Кабель питания</param>
+			<param name="Состояние">Б/у</param>
+			<param name="Состояние">Б/у</param>
+		</offer>
+		<offer id="125354174591" group_id="696771373951" available="true">
+			<name>HP laserjet P2015 - Б/у</name>
+			<vendor>HP</vendor>
+			<description>
+<![CDATA[
+Принтер лазерный Ч/Б
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3536-3438-4265-a462-386566633730/32075944.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-696771373951-hp-laserjet-p2015?editionuid=125354174591</url>
+			<count>2</count>
+			<price>8000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>406395229551</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">laserjet P2015</param>
+			<param name="Ресурс">3000 страниц</param>
+			<param name="Сфера применения">Малый офис, дуплексная печать</param>
+			<param name="Комплектация">Кабель питания</param>
+			<param name="Состояние">Б/у</param>
+			<param name="Состояние">Б/у</param>
+		</offer>
+		<offer id="735370994541" group_id="117297385931" available="true">
+			<name>Canon i-sensys mf4570dn - Б/у</name>
+			<vendor>Canon</vendor>
+			<description>
+<![CDATA[
+МФУ лазерный 3в1 Ч/Б
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3834-6439-4535-b539-383837323562/49967279.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-117297385931-canon-i-sensys-mf4570dn?editionuid=735370994541</url>
+			<count>1</count>
+			<price>9000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>406395229551</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">i-sensys mf4570dn</param>
+			<param name="Ресурс">2100 страниц</param>
+			<param name="Сфера применения">Малый офис, высокая скорость печати, дуплексная печать</param>
+			<param name="Комплектация">Кабель питания</param>
+			<param name="Состояние">Б/у</param>
+			<param name="Состояние">Б/у</param>
+		</offer>
+		<offer id="630978904401" group_id="982067184291" available="true">
+			<name>HP laserjet P2015n - Б/у</name>
+			<vendor>HP</vendor>
+			<description>
+<![CDATA[
+Принтер лазерный Ч/Б
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6432-6131-4830-b130-663332343562/62544613.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-982067184291-hp-laserjet-p2015n?editionuid=630978904401</url>
+			<count>1</count>
+			<price>7500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>406395229551</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">laserjet P2015n</param>
+			<param name="Ресурс">3000 страниц</param>
+			<param name="Сфера применения">Офис</param>
+			<param name="Комплектация">Кабель питания</param>
+			<param name="Состояние">Б/у</param>
+			<param name="Состояние">Б/у</param>
+		</offer>
+		<offer id="617391184741" group_id="894001844081" available="true">
+			<name>HP laserjet M1005 mfp - Б/у</name>
+			<vendor>HP</vendor>
+			<description>
+<![CDATA[
+МФУ лазерный 3в1 Ч/Б
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6339-6264-4036-a239-313332303666/70317719.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-894001844081-hp-laserjet-m1005-mfp?editionuid=617391184741</url>
+			<count>2</count>
+			<price>6000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>406395229551</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">laserjet M1005 mfp</param>
+			<param name="Ресурс">2000 страниц</param>
+			<param name="Сфера применения">Малый офис</param>
+			<param name="Комплектация">Кабель питания</param>
+			<param name="Состояние">Б/у</param>
+			<param name="Состояние">Б/у</param>
+		</offer>
+		<offer id="945124314891" group_id="923056882341" available="true">
+			<name>HP Laserjet 1020 - Б/у</name>
+			<vendor>HP</vendor>
+			<description>
+<![CDATA[
+Принтер лазерный Ч/Б
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6538-3236-4535-b366-356339636363/79371421.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-923056882341-hp-laserjet-1020?editionuid=945124314891</url>
+			<count>1</count>
+			<price>4000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>406395229551</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Laserjet 1020</param>
+			<param name="Ресурс">2000 страниц</param>
+			<param name="Сфера применения">Для дома</param>
+			<param name="Комплектация">Кабель питания</param>
+			<param name="Состояние">Б/у</param>
+			<param name="Состояние">Б/у</param>
+		</offer>
+		<offer id="176836680831" group_id="308429642731" available="true">
+			<name>Kyocera ecosys fs-1120d - Б/у</name>
+			<vendor>Kyocera</vendor>
+			<description>
+<![CDATA[
+Принтер лазерный Ч/Б
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3032-3836-4261-b535-636666366435/10977698.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-308429642731-kyocera-ecosys-fs-1120d?editionuid=176836680831</url>
+			<count>1</count>
+			<price>8000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>406395229551</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">ecosys fs-1120d</param>
+			<param name="Ресурс">2500 страниц</param>
+			<param name="Сфера применения">Малый офис, высокая скорость печати</param>
+			<param name="Комплектация">Кабель питания</param>
+			<param name="Состояние">Б/у</param>
+			<param name="Состояние">Б/у</param>
+		</offer>
+		<offer id="600173256791" group_id="971076415301" available="true">
+			<name>HP laserjet 1018 - Б/у</name>
+			<vendor>HP</vendor>
+			<description>
+<![CDATA[
+Принтер лазерный Ч/Б
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3839-6564-4461-a232-353735343138/13536686.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-971076415301-hp-laserjet-1018?editionuid=600173256791</url>
+			<count>1</count>
+			<price>3500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>406395229551</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">laserjet 1018</param>
+			<param name="Ресурс">2000 страниц</param>
+			<param name="Сфера применения">Для дома</param>
+			<param name="Комплектация">Кабель питания</param>
+			<param name="Состояние">Б/у</param>
+			<param name="Состояние">Б/у</param>
+		</offer>
+		<offer id="295617777031" group_id="292486868351" available="true">
+			<name>Samsung ML-1641 - Б/у</name>
+			<vendor>Samsung</vendor>
+			<description>
+<![CDATA[
+Принтер лазерный Ч/Б
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6162-3165-4330-b466-616637313232/26046408.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-292486868351-samsung-ml-1641?editionuid=295617777031</url>
+			<count>1</count>
+			<price>4000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>406395229551</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">ML-1641</param>
+			<param name="Ресурс">1500 страниц</param>
+			<param name="Сфера применения">Для дома, экономичный</param>
+			<param name="Комплектация">Кабель питания</param>
+			<param name="Состояние">Б/у</param>
+			<param name="Состояние">Б/у</param>
+		</offer>
+		<offer id="779534653331" group_id="260909978431" available="true">
+			<name>Brother DCP-7060dr - Б/у</name>
+			<vendor>Brother</vendor>
+			<description>
+<![CDATA[
+МФУ лазерный 3в1 Ч/Б
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3963-3162-4934-a563-633936383636/26223091.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-260909978431-brother-dcp-7060dr?editionuid=779534653331</url>
+			<count>1</count>
+			<price>8000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>406395229551</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">DCP-7060dr</param>
+			<param name="Ресурс">1200 страниц</param>
+			<param name="Сфера применения">Поддержка увеличенного картриджа на 2600 стр. Для дома</param>
+			<param name="Комплектация">Кабель питания</param>
+			<param name="Состояние">Б/у</param>
+			<param name="Состояние">Б/у</param>
+		</offer>
+		<offer id="3" group_id="251869004611" available="true">
+			<name>Copy: Samsung Galaxy M33 [SM-M336B/DS] 5G 8/128 ГБ бронзовый - Новый</name>
+			<vendor>Samsung</vendor>
+			<vendorCode>3</vendorCode>
+			<description>
+<![CDATA[
+<br /><br />Сверхплавный FullHD+ экран1 120 Гц<br />4 камеры, основная 50 МП<br />Батарея 5000 мА·ч<br /><br />Подробнее:#nbsp;https://www.samsung.com/ru/smartphones/galaxy-m/galaxy-m33-5g-green-128gb-sm-m336bzggser/
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3465-3366-4364-a436-396662393238/25978824.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-251869004611-copy-samsung-galaxy-m33-sm-m336bds-5g-81?editionuid=492071780111</url>
+			<count>9999</count>
+			<price>17500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Процессор, частота">2,4 ГГц, 2 ГГц</param>
+			<param name="Процессор, тип">Восьмиядерный</param>
+			<param name="Экран, размеры">167.2 мм (6.6")</param>
+			<param name="Экран, разрешение">1080 x 2408 (FHD+)</param>
+			<param name="Экран, тип">PLS LCD</param>
+			<param name="Экран, глубина цвета">16 млн.</param>
+			<param name="Камера (основная), разрешение">50.0 MП + 5.0 MП + 2.0 MП + 2.0 MП</param>
+			<param name="Камера (основная), диафрагма">F1.8 , F2.2 , F2.4 , F2.4</param>
+			<param name="Камера (основная), зум (цифровой)">до 10x</param>
+			<param name="Камера (фронтальная), разрешение">8.0 МП</param>
+			<param name="Камера (фронтальная), диафрагма">F2.2</param>
+			<param name="Запись видео, зазрешение">UHD 4K (3840 x 2160) для 30 кадров в секунду</param>
+			<param name="Запись видео, замедленное">до 240 кадр./с с HD разрешением</param>
+			<param name="Память (ОЗУ), объем">6 Гб</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="135" group_id="680609274031" available="true">
+			<name>Tecno Spark 8C 4+64GB [KG5N] синий - Новый</name>
+			<vendor>Tecno</vendor>
+			<vendorCode>135</vendorCode>
+			<picture>https://static.tildacdn.com/tild3866-3562-4862-b636-393534376465/ezgifcom-gif-maker.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-680609274031-tecno-spark-8c-464gb-kg5n-sinii?editionuid=687334111731</url>
+			<count>9999</count>
+			<price>8500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="380967678541" group_id="594789018941" available="true">
+			<name>Apple iPhone SE 2022 64 Гб Midnight (темная ночь) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3034-6365-4736-a163-323962363438/23437444.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-594789018941-apple-iphone-se-2022-64-gb-midnight-temn?editionuid=380967678541</url>
+			<count>9999</count>
+			<price>27490.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Южная Корея</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Южная Корея</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="262203749901" group_id="378683727631" available="true">
+			<name>Apple iPhone SE 2022 64 Гб Starlight (сияющая звезда) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3536-3337-4431-a466-353936323737/29409326.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-378683727631-apple-iphone-se-2022-64-gb-starlight-siy?editionuid=262203749901</url>
+			<count>9999</count>
+			<price>27490.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Южная Корея</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Южная Корея</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="429926289301" group_id="895243444051" available="true">
+			<name>Apple iPhone SE 2022 64 Гб Red (красный) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3535-3863-4538-a331-326636356165/68977562.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-895243444051-apple-iphone-se-2022-64-gb-red-krasnii?editionuid=429926289301</url>
+			<count>9999</count>
+			<price>27490.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Южная Корея</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Южная Корея</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="721172499761" group_id="709551816441" available="true">
+			<name>Apple iPhone 11 64 Гб Black - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3764-3236-4965-a562-656336326535/30774482.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-709551816441-apple-iphone-11-64-gb-black?editionuid=721172499761</url>
+			<count>9999</count>
+			<price>36490.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>307388343091</categoryId>
+			<country_of_origin>Британия/Евросоюз</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Британия/Евросоюз</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="813211699591" group_id="718811854371" available="true">
+			<name>Apple iPhone 11 64 Гб Green - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3733-6663-4335-b937-653432633837/60026425.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-718811854371-apple-iphone-11-64-gb-green?editionuid=813211699591</url>
+			<count>9999</count>
+			<price>36490.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Казахстан/Вьетнам</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Казахстан/Вьетнам</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="157445054571" group_id="517705681531" available="true">
+			<name>Apple iphone 11 128 Гб black - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6536-6562-4332-a434-363530393136/13878211.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-517705681531-apple-iphone-11-128-gb-black?editionuid=157445054571</url>
+			<count>9999</count>
+			<price>42990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Евросоюз</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Евросоюз</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="954826055141" group_id="827349472581" available="true">
+			<name>Apple iphone 11 128 Гб white - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3963-3462-4462-a632-366139616339/16929323.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-827349472581-apple-iphone-11-128-gb-white?editionuid=954826055141</url>
+			<count>9999</count>
+			<price>43990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Южная Корея</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Южная Корея</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="410729160481" group_id="127191179381" available="true">
+			<name>Apple iphone 11 128 Гб Green - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3164-6431-4233-b363-646430316232/79734055.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-127191179381-apple-iphone-11-128-gb-green?editionuid=410729160481</url>
+			<count>9999</count>
+			<price>42990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Вьетнам/Южная Корея</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Вьетнам/Южная Корея</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="188912253661" group_id="447719822391" available="true">
+			<name>Apple iPhone 11 Pro Space Gray (RFB) - Восстановленный</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3864-6562-4262-b434-343730316365/12843809.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-447719822391-apple-iphone-11-pro-space-gray-rfb?editionuid=188912253661</url>
+			<count>9999</count>
+			<price>45790.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Россия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Россия</param>
+			<param name="Состояние">Восстановленный</param>
+		</offer>
+		<offer id="948468558291" group_id="114292632611" available="true">
+			<name>Apple iPhone 12 64 Гб black - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6639-3363-4534-b339-366133633764/69928433.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-114292632611-apple-iphone-12-64-gb-black?editionuid=948468558291</url>
+			<count>9999</count>
+			<price>44890.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Южная Корея</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Южная Корея</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="912910126721" group_id="221528795411" available="true">
+			<name>Realme 8i 4/128 черный б/у (идеальное состояние) - Б/у</name>
+			<vendor>Realme</vendor>
+			<description>
+<![CDATA[
+Идеальное состояние, полный комплект 4/128гб, куплен 4 месяца назад,чек,
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6464-3839-4734-b338-343033373665/23068663.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-221528795411-realme-8i-4128-chernii-bu-idealnoe-sosto?editionuid=912910126721</url>
+			<count>9999</count>
+			<price>12000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">8i</param>
+			<param name="Память (ОЗУ), объем">4</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">черный</param>
+			<param name="Состояние">Б/у</param>
+		</offer>
+		<offer id="916834060011" group_id="991250105931" available="true">
+			<name>Realme C21-Y 3/32 голубой, черный новый - Новый</name>
+			<vendor>Realme</vendor>
+			<description>
+<![CDATA[
+Новый,3/32гб,nfc,чек, гарантия,черный,синий цвет
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3365-3332-4634-b039-336334623435/32769430.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-991250105931-realme-c21-y-332-goluboi-chernii-novii?editionuid=916834060011</url>
+			<count>9999</count>
+			<price>8500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">C21-Y</param>
+			<param name="Память (ОЗУ), объем">3</param>
+			<param name="Память (внутренняя), объем">32</param>
+			<param name="Цвет">голубой</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="640716941411" group_id="980475545311" available="true">
+			<name>Realme 9 Pro 6/128 зеленый новый - Новый</name>
+			<vendor>Realme</vendor>
+			<description>
+<![CDATA[
+Новый,запечатан,РСТ
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6238-3737-4637-b339-363134643261/58285342.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-980475545311-realme-9-pro-6128-zelenii-novii?editionuid=640716941411</url>
+			<count>9999</count>
+			<price>21500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">9 Pro</param>
+			<param name="Память (ОЗУ), объем">6</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">зеленый</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="378061410991" group_id="203999443751" available="true">
+			<name>Infinix Hot 12i 4/64 черный новый - Новый</name>
+			<vendor>Infinix</vendor>
+			<description>
+<![CDATA[
+Новый,чек,год гарантии,4+3/64гб
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3132-6634-4836-a437-393765383735/31699108.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-203999443751-infinix-hot-12i-464-chernii-novii?editionuid=378061410991</url>
+			<count>9999</count>
+			<price>8500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Hot 12i</param>
+			<param name="Память (ОЗУ), объем">4</param>
+			<param name="Память (внутренняя), объем">64</param>
+			<param name="Цвет">черный</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="979864291801" group_id="466777291001" available="true">
+			<name>Infini Smart 6 2/2 синий новый - Новый</name>
+			<vendor>Infinix</vendor>
+			<description>
+<![CDATA[
+Новый,2/32гб,цвет aqua sky
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3132-3631-4866-a339-343361313334/29013782.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-466777291001-infini-smart-6-22-sinii-novii?editionuid=979864291801</url>
+			<count>9999</count>
+			<price>7000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Smart 6</param>
+			<param name="Память (ОЗУ), объем">2</param>
+			<param name="Память (внутренняя), объем">32</param>
+			<param name="Цвет">синий</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="429018197471" group_id="962237248831" available="true">
+			<name>Samsung Galaxy Note 10 12/256 aura glow б/у - Б/у</name>
+			<vendor>Samsung</vendor>
+			<description>
+<![CDATA[
+Отличное состояние, полный комплект,12/256гб,оригинал, Snapdragon,1сим
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3261-6636-4165-b737-643633336538/73887339.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-962237248831-samsung-galaxy-note-10-12256-aura-glow-b?editionuid=429018197471</url>
+			<count>9999</count>
+			<price>30500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Galaxy Note 10</param>
+			<param name="Память (ОЗУ), объем">12</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">aura glow</param>
+			<param name="Состояние">Б/у</param>
+		</offer>
+		<offer id="483926310111" group_id="705905462081" available="true">
+			<name>Honor 10X lite 4/128 черный б/у - Б/у</name>
+			<vendor>Honor</vendor>
+			<description>
+<![CDATA[
+Отличное состояние, полный комплект,4/128гб,48мп камера,nfc
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3164-6665-4362-b061-373466333431/90992627.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-705905462081-honor-10x-lite-4128-chernii-bu?editionuid=483926310111</url>
+			<count>9999</count>
+			<price>12500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">10X lite</param>
+			<param name="Память (ОЗУ), объем">4</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">черный</param>
+			<param name="Состояние">Б/у</param>
+		</offer>
+		<offer id="146914043631" group_id="715054780701" available="true">
+			<name>Hono 20S 6/128 черный б/у - Б/у</name>
+			<vendor>Honor</vendor>
+			<description>
+<![CDATA[
+Отличное состояние, полный комплект,6/128гб,48мп камера,nfc,плеймаркет
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3662-3936-4634-b936-646362363563/55258935.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-715054780701-hono-20s-6128-chernii-bu?editionuid=146914043631</url>
+			<count>9999</count>
+			<price>12500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">20S</param>
+			<param name="Память (ОЗУ), объем">6</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">черный</param>
+			<param name="Состояние">Б/у</param>
+		</offer>
+		<offer id="300820705721" group_id="275946332571" available="true">
+			<name>Honor 30 8/128 черный б/у - Б/у</name>
+			<vendor>Honor</vendor>
+			<description>
+<![CDATA[
+Идеальное состояние, полный комплект,8/128гб,в рекламе не нуждается
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3161-3533-4831-b466-663834353635/40327858.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-275946332571-honor-30-8128-chernii-bu?editionuid=300820705721</url>
+			<count>9999</count>
+			<price>18500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">30</param>
+			<param name="Память (ОЗУ), объем">8</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">черный</param>
+			<param name="Состояние">Б/у</param>
+		</offer>
+		<offer id="252620421281" group_id="265407690721" available="true">
+			<name>Honor 20 8/128 синий б/у - Б/у</name>
+			<vendor>Honor</vendor>
+			<description>
+<![CDATA[
+Отличное состояние,без ремонтов,6/128гб,2чехла,новое бронестекло,без зарядки
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3436-3966-4133-b333-323630646431/47999368.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-265407690721-honor-20-8128-sinii-bu?editionuid=252620421281</url>
+			<count>9999</count>
+			<price>13500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">20</param>
+			<param name="Память (ОЗУ), объем">6</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">синий</param>
+			<param name="Состояние">Б/у</param>
+		</offer>
+		<offer id="312035333091" group_id="264530927811" available="true">
+			<name>Xiaomi Redmi 10C 4/128 синий новый - Новый</name>
+			<vendor>Xiaomi</vendor>
+			<description>
+<![CDATA[
+Новый,4/128гб,голубой цвет, 50мп камера,отличный аппарат по отличной цене
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3639-3464-4533-a130-353061346234/46633567.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-264530927811-xiaomi-redmi-10c-4128-sinii-novii?editionuid=312035333091</url>
+			<count>9999</count>
+			<price>12200.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Redmi 10C</param>
+			<param name="Память (ОЗУ), объем">4</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">синий</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="127765178971" group_id="711694339351" available="true">
+			<name>Xiaom Redmi Note 10S NFC 6/64 серый новый - Новый</name>
+			<vendor>Xiaomi</vendor>
+			<description>
+<![CDATA[
+Новый,6/64гб,33w быстрая зарядка,игровой аппарат
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3536-3133-4362-b264-663233323130/80347757.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-711694339351-xiaom-redmi-note-10s-nfc-664-serii-novii?editionuid=127765178971</url>
+			<count>9999</count>
+			<price>14700.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Redmi Note 10S NFC</param>
+			<param name="Память (ОЗУ), объем">6</param>
+			<param name="Память (внутренняя), объем">64</param>
+			<param name="Цвет">серый</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="944831722441" group_id="698866038101" available="true">
+			<name>Xiaomi Redmi Note 10S 8/128 серый новый - Новый</name>
+			<vendor>Xiaomi</vendor>
+			<description>
+<![CDATA[
+Новый, запечатан,8/128гб,серый цвет,64мп камера,шикарный аппарат по шикарной цене
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3536-3133-4362-b264-663233323130/80347757.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-698866038101-xiaomi-redmi-note-10s-8128-serii-novii?editionuid=944831722441</url>
+			<count>9999</count>
+			<price>17000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Redmi Note 10S</param>
+			<param name="Память (ОЗУ), объем">8</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">серый</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="413202069661" group_id="733362204841" available="true">
+			<name>Xiaomi Redmi 9A 2/32 синий новый - Новый</name>
+			<vendor>Xiaomi</vendor>
+			<description>
+<![CDATA[
+Новый,запечатан,2/32гб,синий цвет
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3263-3665-4366-a262-313839646536/24273160.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-733362204841-xiaomi-redmi-9a-232-sinii-novii?editionuid=413202069661</url>
+			<count>9999</count>
+			<price>7000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Redmi 9A</param>
+			<param name="Память (ОЗУ), объем">2</param>
+			<param name="Память (внутренняя), объем">32</param>
+			<param name="Цвет">синий</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="357187481221" group_id="618650698971" available="true">
+			<name>Samsun Galaxy S21FE 8/256 белый новый - Новый</name>
+			<vendor>Samsung</vendor>
+			<description>
+<![CDATA[
+Новый, запечатан,год гарантии,цена ?,для России,2сим,8/256гб
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3161-6636-4662-b438-373265323033/42398749.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-618650698971-samsun-galaxy-s21fe-8256-belii-novii?editionuid=357187481221</url>
+			<count>9999</count>
+			<price>45490.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Galaxy S21FE</param>
+			<param name="Память (ОЗУ), объем">8</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">белый</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="738064251541" group_id="841343676011" available="true">
+			<name>Samsun Galaxy S21FE 8/256 фиолетовый новый - Новый</name>
+			<vendor>Samsung</vendor>
+			<description>
+<![CDATA[
+Новый,год гарантии,запечатан,оригинал,2сим, для России,фиолетовый цвет
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3734-6137-4131-a134-386665653739/33711970.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-841343676011-samsun-galaxy-s21fe-8256-fioletovii-novi?editionuid=738064251541</url>
+			<count>9999</count>
+			<price>45490.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Galaxy S21FE</param>
+			<param name="Память (ОЗУ), объем">8</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">фиолетовый</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="325763422051" group_id="965188405201" available="true">
+			<name>Xiaomi Redmi 10C 4/128 серый новый - Новый</name>
+			<vendor>Xiaomi</vendor>
+			<description>
+<![CDATA[
+Новый,запечатан,4/128гб,50мп камера,5000mah батарея,расширение памяти до 1тб
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6433-6661-4636-a639-306533613837/59353574.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-965188405201-xiaomi-redmi-10c-4128-serii-novii?editionuid=325763422051</url>
+			<count>9999</count>
+			<price>12200.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Redmi 10C</param>
+			<param name="Память (ОЗУ), объем">4</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">серый</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="776908484591" group_id="225822009471" available="true">
+			<name>Samsun Galaxy S21FE 8/256 графит новый - Новый</name>
+			<vendor>Samsung</vendor>
+			<description>
+<![CDATA[
+Новый,запечатан,год гарантии,оригинал,8/256гб,цвет: graphite
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6630-6633-4965-a635-313566633164/58293792.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-225822009471-samsun-galaxy-s21fe-8256-grafit-novii?editionuid=776908484591</url>
+			<count>9999</count>
+			<price>45490.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Galaxy S21FE</param>
+			<param name="Память (ОЗУ), объем">8</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">графит</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="806327991531" group_id="262631669881" available="true">
+			<name>Xiaomi Redmi Note 10 Pro 8/128 серый новый - Новый</name>
+			<vendor>Xiaomi</vendor>
+			<description>
+<![CDATA[
+Новый,запечатан,8/128гб,серый цвет
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3731-3032-4638-a465-623233396336/67576310.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-262631669881-xiaomi-redmi-note-10-pro-8128-serii-novi?editionuid=806327991531</url>
+			<count>9999</count>
+			<price>19000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Redmi Note 10 Pro</param>
+			<param name="Память (ОЗУ), объем">8</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">серый</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="210288869981" group_id="391126384511" available="true">
+			<name>Realme X3 SuperZoom 8/128 белый новый - Новый</name>
+			<vendor>Realme</vendor>
+			<description>
+<![CDATA[
+Идеальное состояние, полный комплект,чехол,экран под гидрогелем,аппарат для любителей фото-видео съёмки и игрушек,64мп квадрокамера,лучший вариант в этом бюджете
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3862-6665-4235-a633-366334613038/90534091.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-391126384511-realme-x3-superzoom-8128-belii-novii?editionuid=210288869981</url>
+			<count>9999</count>
+			<price>22500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">X3 SuperZoom</param>
+			<param name="Память (ОЗУ), объем">8</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">белый</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="218820148911" group_id="239140290401" available="true">
+			<name>Samsung Galaxy S20 12/128 белый новый - Новый</name>
+			<vendor>Samsung</vendor>
+			<description>
+<![CDATA[
+Идеальное состояние, полный комплект, Snapdragon,12/128гб,оригинал,Корея(на 1сим),шикарный аппарат по шикарной цене
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6133-6336-4733-b137-313664366138/56029635.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-239140290401-samsung-galaxy-s20-12128-belii-novii?editionuid=218820148911</url>
+			<count>9999</count>
+			<price>30000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Galaxy S20</param>
+			<param name="Память (ОЗУ), объем">12</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">белый</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="991358339111" group_id="379613415581" available="true">
+			<name>Samsun Galaxy S22 8/256 черный новый - Новый</name>
+			<vendor>Samsung</vendor>
+			<description>
+<![CDATA[
+Новый,год гарантии,запечатан,8/256гб,в наличии,могу привезти любую модель под заказ
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3562-6437-4565-a630-356335363265/97365914.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-379613415581-samsun-galaxy-s22-8256-chernii-novii?editionuid=991358339111</url>
+			<count>9999</count>
+			<price>57500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Galaxy S22</param>
+			<param name="Память (ОЗУ), объем">8</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">черный</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="788925116611" group_id="763107185311" available="true">
+			<name>Zte blade A71 3/64 синий новый - Новый</name>
+			<vendor>Zte</vendor>
+			<description>
+<![CDATA[
+Новый,чек,РСТ,3/64гб,5000mah батарея,nfc
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6132-3438-4235-b661-393063376535/87303988.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-763107185311-zte-blade-a71-364-sinii-novii?editionuid=788925116611</url>
+			<count>9999</count>
+			<price>8500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">blade A71</param>
+			<param name="Память (ОЗУ), объем">3</param>
+			<param name="Память (внутренняя), объем">64</param>
+			<param name="Цвет">синий</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="854536935851" group_id="657281546231" available="true">
+			<name>Realme C30 4/64 черный,зелёный,серый,голубой новый - Новый</name>
+			<vendor>Realme</vendor>
+			<description>
+<![CDATA[
+Новый,РСТ,чек,4/64гб,5000mah батарея,черный,зелёный,серый,голубой цвет
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3761-3064-4031-b935-383965313139/13108843.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-657281546231-realme-c30-464-cherniizelyoniiseriigolub?editionuid=854536935851</url>
+			<count>9999</count>
+			<price>8500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">C30</param>
+			<param name="Память (ОЗУ), объем">4</param>
+			<param name="Память (внутренняя), объем">64</param>
+			<param name="Цвет">черный,зелёный,серый,голубой</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="716327642521" group_id="555566260841" available="true">
+			<name>Xiaomi Redmi 10A 2/2 синий новый - Новый</name>
+			<vendor>Xiaomi</vendor>
+			<description>
+<![CDATA[
+Новый,РСТ,запечатан,чек,2/32гб
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3464-3530-4731-a133-623166376635/81294668.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-555566260841-xiaomi-redmi-10a-22-sinii-novii?editionuid=716327642521</url>
+			<count>9999</count>
+			<price>8499.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Redmi 10A</param>
+			<param name="Память (ОЗУ), объем">2</param>
+			<param name="Память (внутренняя), объем">32</param>
+			<param name="Цвет">синий</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="166499449171" group_id="908799313731" available="true">
+			<name>Xiaom Redmi 9C 3/64 черный,зелёный,пурпурный новый - Новый</name>
+			<vendor>Xiaomi</vendor>
+			<description>
+<![CDATA[
+Новый,3/64гб,РСТ,чек, гарантия,цвет: черный,зелёный,пурпурный,nfc
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3937-3233-4433-b835-316563666263/53926274.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-908799313731-xiaom-redmi-9c-364-cherniizelyoniipurpur?editionuid=166499449171</url>
+			<count>9999</count>
+			<price>10000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Redmi 9C</param>
+			<param name="Память (ОЗУ), объем">3</param>
+			<param name="Память (внутренняя), объем">64</param>
+			<param name="Цвет">черный,зелёный,пурпурный</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="983320201621" group_id="278694448001" available="true">
+			<name>Xiaom Poco F4 8/256 серебристый новый - </name>
+			<vendor>Xiaomi</vendor>
+			<description>
+<![CDATA[
+Новый,8/256гб
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3638-6361-4963-a666-323139653662/65459087.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-278694448001-xiaom-poco-f4-8256-serebristii-novii?editionuid=983320201621</url>
+			<count>9999</count>
+			<price>30490.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Poco F4</param>
+			<param name="Память (ОЗУ), объем">8</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">серебристый</param>
+		</offer>
+		<offer id="444313938801" group_id="593834138011" available="true">
+			<name>Xiaom Redmi Note 11 Pro 8/128 голубой новый - Новый</name>
+			<vendor>Xiaomi</vendor>
+			<description>
+<![CDATA[
+Новый,8/128,цвет: star blue (переливается разными цветами), 107мп камера,67wбыстрая зарядка
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3934-3833-4530-b866-666634343462/15340178.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-593834138011-xiaom-redmi-note-11-pro-8128-goluboi-nov?editionuid=444313938801</url>
+			<count>9999</count>
+			<price>21500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Redmi Note 11 Pro</param>
+			<param name="Память (ОЗУ), объем">8</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">голубой</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="242187563221" group_id="652419013051" available="true">
+			<name>Xiaomi Poco X4 GT 5g 8/256 голубой новый - Новый</name>
+			<vendor>Xiaomi</vendor>
+			<description>
+<![CDATA[
+Новый,8/256гб,шикарный синий цвет,переливается разными цветами
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3837-3937-4138-a163-623736366133/99555796.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-652419013051-xiaomi-poco-x4-gt-5g-8256-goluboi-novii?editionuid=242187563221</url>
+			<count>9999</count>
+			<price>29490.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Poco X4 GT 5g</param>
+			<param name="Память (ОЗУ), объем">8</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">голубой</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="187515708131" group_id="644914077881" available="true">
+			<name>Samsung Galaxy S21 Plus 8/128 серебристый новый - Новый</name>
+			<vendor>Samsung</vendor>
+			<description>
+<![CDATA[
+Новый,запечатан,год гарантии,для России,2сим,цвет: silver,8/128 Гб
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6563-6663-4637-a632-383136316532/59151492.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-644914077881-samsung-galaxy-s21-plus-8128-serebristii?editionuid=187515708131</url>
+			<count>9999</count>
+			<price>49500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Galaxy S21 Plus</param>
+			<param name="Память (ОЗУ), объем">8</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">серебристый</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="881563005101" group_id="234329607431" available="true">
+			<name>Xiaom Redmi Note 11 Pro 8/128 черный новый - Новый</name>
+			<vendor>Xiaomi</vendor>
+			<description>
+<![CDATA[
+Новый,8/128гб
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6666-6662-4461-b062-323762663431/25892616.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-234329607431-xiaom-redmi-note-11-pro-8128-chernii-nov?editionuid=881563005101</url>
+			<count>9999</count>
+			<price>21500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Redmi Note 11 Pro</param>
+			<param name="Память (ОЗУ), объем">8</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">черный</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="889154155171" group_id="849448489291" available="true">
+			<name>Xiaom Poco F4 8/256 серый новый - Новый</name>
+			<vendor>Xiaomi</vendor>
+			<description>
+<![CDATA[
+Новый,8/256гб, Snapdragon 870 with 5g,120hz,64мп main camera with ois, 67w турбо зарядка,4500mah батарея
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3638-6361-4963-a666-323139653662/65459087.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-849448489291-xiaom-poco-f4-8256-serii-novii?editionuid=889154155171</url>
+			<count>9999</count>
+			<price>30490.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Poco F4</param>
+			<param name="Память (ОЗУ), объем">8</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">серый</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="29490" group_id="780722392461" available="true">
+			<name>Xiaom Poco X4 GT 5g 8/256 серебристый новый - Новый</name>
+			<vendor>Xiaomi</vendor>
+			<vendorCode>29490</vendorCode>
+			<description>
+<![CDATA[
+Новый,8/256гб,67w быстрая зарядка,144Hz,dimensity 8100,шикарный аппарат,шикарная цена)
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3065-3366-4230-b736-316335643263/42333647.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-780722392461-xiaom-poco-x4-gt-5g-8256-serebristii-nov?editionuid=702791174811</url>
+			<count>9999</count>
+			<price>29490.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Poco X4 GT 5g</param>
+			<param name="Память (ОЗУ), объем">8</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">серебристый</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="264749091491" group_id="459036158611" available="true">
+			<name>Samsung galaxy A32 6/128 черный новый - Новый</name>
+			<vendor>Samsung</vendor>
+			<description>
+<![CDATA[
+Новый,год гарантии,черный цвет,6/128гб,отличный аппарат по отличной цене
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3564-6235-4465-b565-336664363565/15226822.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-459036158611-samsung-galaxy-a32-6128-chernii-novii?editionuid=264749091491</url>
+			<count>9999</count>
+			<price>18000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">galaxy A32</param>
+			<param name="Память (ОЗУ), объем">6</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">черный</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="600647626211" group_id="798450842361" available="true">
+			<name>Samsun Galaxy A32 6/128 белый - Новый</name>
+			<vendor>Samsung</vendor>
+			<description>
+<![CDATA[
+Новый,год гарантии,белый цвет,6/128гб
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3363-6164-4536-a639-643838643161/43855460.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-798450842361-samsun-galaxy-a32-6128-belii?editionuid=600647626211</url>
+			<count>9999</count>
+			<price>18000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Galaxy A32</param>
+			<param name="Память (ОЗУ), объем">6</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">белый</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="828826105991" group_id="361195252401" available="true">
+			<name>Samsung Galaxy A23 4/128 голубой новый - Новый</name>
+			<vendor>Samsung</vendor>
+			<description>
+<![CDATA[
+Новый,4/128гб,год гарантии
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3930-3937-4430-a463-353964653237/38856164.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-361195252401-samsung-galaxy-a23-4128-goluboi-novii?editionuid=828826105991</url>
+			<count>9999</count>
+			<price>16000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Galaxy A23</param>
+			<param name="Память (ОЗУ), объем">4</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">голубой</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="168177322101" group_id="486500012251" available="true">
+			<name>Samsung galaxy A32 6/128 синий новый - новый</name>
+			<vendor>Samsung</vendor>
+			<description>
+<![CDATA[
+Новый,запечатан,год гарантии,6/128гб,обратите внимание- (не 4/128)
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3635-3538-4562-a433-386236313036/62232156.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-486500012251-samsung-galaxy-a32-6128-sinii-novii?editionuid=168177322101</url>
+			<count>9999</count>
+			<price>18000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">galaxy A32</param>
+			<param name="Память (ОЗУ), объем">6</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">синий</param>
+			<param name="Состояние">новый</param>
+		</offer>
+		<offer id="171796839831" group_id="547220368461" available="true">
+			<name>Xiaomi Mi 11T 8/128 серый новый - Новый</name>
+			<vendor>Xiaomi</vendor>
+			<description>
+<![CDATA[
+Запечатан,8/128гб,РСТ,108мп камера,серый,синий цвет
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6535-6637-4564-a461-363661356436/33718266.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-547220368461-xiaomi-mi-11t-8128-serii-novii?editionuid=171796839831</url>
+			<count>9999</count>
+			<price>27490.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Mi 11T</param>
+			<param name="Память (ОЗУ), объем">8</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">серый</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="746378346111" group_id="327202052931" available="true">
+			<name>Huawei Nova 9 8/128 фиолетовый новый - Новый</name>
+			<vendor>Huawei</vendor>
+			<description>
+<![CDATA[
+Новый,стоял на ветрине,8/128гб,шикарнейший аппарат по шикарной цене
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6162-3637-4630-a232-303036323330/15204148.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-327202052931-huawei-nova-9-8128-fioletovii-novii?editionuid=746378346111</url>
+			<count>9999</count>
+			<price>26500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Nova 9</param>
+			<param name="Память (ОЗУ), объем">8</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">фиолетовый</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="386230534241" group_id="821599073381" available="true">
+			<name>Xiaomi Mi 11 lite 5g Ne 8/128 голубой, зеленый новый - Новый</name>
+			<vendor>Xiaomi</vendor>
+			<description>
+<![CDATA[
+Новый,год гарантии,8/128гб
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3934-6437-4763-a331-383466346261/44851566.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-821599073381-xiaomi-mi-11-lite-5g-ne-8128-goluboi-zel?editionuid=386230534241</url>
+			<count>9999</count>
+			<price>24000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Mi 11 lite 5g Ne</param>
+			<param name="Память (ОЗУ), объем">8</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">голубой, зеленый</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="257887281611" group_id="907927787051" available="true">
+			<name>Xiaomi Poco X3 GT 8/128 голубой новый - Новый</name>
+			<vendor>Xiaomi</vendor>
+			<description>
+<![CDATA[
+Новый,на много мощнее РСТ версии,в России продается под названием Poco X3 GT,игровой процессор Dimensity 1100, 67вт ультробыстрая зарядка,5000 mah батарея,8/128гб,5G,64мп камера,64мп камера
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6331-3766-4834-a337-303334306532/45657013.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-907927787051-xiaomi-poco-x3-gt-8128-goluboi-novii?editionuid=257887281611</url>
+			<count>9999</count>
+			<price>20000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Poco X3 GT</param>
+			<param name="Память (ОЗУ), объем">8</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">голубой</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="882101287561" group_id="399197259981" available="true">
+			<name>Xiaomi Mi 11 lite 5g ne черный новый - Новый</name>
+			<vendor>Xiaomi</vendor>
+			<description>
+<![CDATA[
+Новый,запечатан,достался на подарок,РСТ,8/256гб
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6664-3434-4235-b433-313633316435/15013909.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-399197259981-xiaomi-mi-11-lite-5g-ne-chernii-novii?editionuid=882101287561</url>
+			<count>9999</count>
+			<price>26500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Mi 11 lite 5g ne</param>
+			<param name="Память (ОЗУ), объем">8</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">черный</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="923631890601" group_id="505308928521" available="true">
+			<name>Samsung galaxy M32 6/128 синий новый - Новый</name>
+			<vendor>Samsung</vendor>
+			<description>
+<![CDATA[
+Новый,стоял на ветрине,6/128гб,в рекламе не нуждается,не родная зарядка
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6465-3131-4938-a334-336664643135/32903568.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-505308928521-samsung-galaxy-m32-6128-sinii-novii?editionuid=923631890601</url>
+			<count>9999</count>
+			<price>18500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">galaxy M32</param>
+			<param name="Память (ОЗУ), объем">6</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">синий</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="400893544351" group_id="692574135721" available="true">
+			<name>Realme GT master edition 8/256 серый новый - Новый</name>
+			<vendor>Realme</vendor>
+			<description>
+<![CDATA[
+Новый,стоял на ветрине,8/256 Гб, компактный аппарат с шикарным дизайном
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3235-6334-4231-a261-303731313238/18279437.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-692574135721-realme-gt-master-edition-8256-serii-novi?editionuid=400893544351</url>
+			<count>9999</count>
+			<price>25500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">GT master edition</param>
+			<param name="Память (ОЗУ), объем">8</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">серый</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="174420944271" group_id="716774586351" available="true">
+			<name>Xiaom 12 lite 8/128 зеленый новый - Новый</name>
+			<vendor>Xiaomi</vendor>
+			<description>
+<![CDATA[
+Новый,запечатан,черный,зелёный цвет,РСТ
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6537-6633-4064-b735-636133653437/33722052.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-716774586351-xiaom-12-lite-8128-zelenii-novii?editionuid=174420944271</url>
+			<count>9999</count>
+			<price>29500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">12 lite</param>
+			<param name="Память (ОЗУ), объем">8</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">зеленый</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="740080039781" group_id="929812556711" available="true">
+			<name>Honor X8 6/128 черный новый - Новый</name>
+			<vendor>Honor</vendor>
+			<description>
+<![CDATA[
+Новый,стоял на ветрине,6/128гб,108мп,отличный новый аппарат по цене бу,
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6538-6534-4433-b135-313364333731/64891151.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-929812556711-honor-x8-6128-chernii-novii?editionuid=740080039781</url>
+			<count>9999</count>
+			<price>22000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">X8</param>
+			<param name="Память (ОЗУ), объем">6</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">черный</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="140563220101" group_id="553623741661" available="true">
+			<name>Samsung Galaxy Z Flip 3 8/256 черный новый - Новый</name>
+			<vendor>Samsung</vendor>
+			<description>
+<![CDATA[
+Новый,,8/256гб,черный цвет,коробка запечатана!
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3330-3362-4835-b963-356436386165/29162111.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-553623741661-samsung-galaxy-z-flip-3-8256-chernii-nov?editionuid=140563220101</url>
+			<count>9999</count>
+			<price>61500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Galaxy Z Flip 3</param>
+			<param name="Память (ОЗУ), объем">8</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">черный</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="492698483691" group_id="859783919881" available="true">
+			<name>Samsung Galaxy A03 Core 2/32 черный новый - Новый</name>
+			<vendor>Samsung</vendor>
+			<description>
+<![CDATA[
+Новый,чек,32гб
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3534-3665-4561-b439-653035333830/73612437.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-859783919881-samsung-galaxy-a03-core-232-chernii-novi?editionuid=492698483691</url>
+			<count>9999</count>
+			<price>8499.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Galaxy A03 Core</param>
+			<param name="Память (ОЗУ), объем">2</param>
+			<param name="Память (внутренняя), объем">32</param>
+			<param name="Цвет">черный</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="118333547381" group_id="267819822851" available="true">
+			<name>Honor 50 lite 6/128 синий новый - Новый</name>
+			<vendor>Honor</vendor>
+			<description>
+<![CDATA[
+Новый,с ветрины,6/128гб,цена
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6364-3631-4861-a663-303862323137/11454744.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-267819822851-honor-50-lite-6128-sinii-novii?editionuid=118333547381</url>
+			<count>9999</count>
+			<price>19000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">50 lite</param>
+			<param name="Память (ОЗУ), объем">6</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">синий</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="536179287201" group_id="690097465491" available="true">
+			<name>Xiaomi Redmi Note 11 Pro 8/128 белый новый - Новый</name>
+			<vendor>Xiaomi</vendor>
+			<description>
+<![CDATA[
+Новый,8/128гб,белый цвет,67w быстрая зарядка,108мп камера
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3937-3265-4963-b336-306231313230/49421646.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-690097465491-xiaomi-redmi-note-11-pro-8128-belii-novi?editionuid=536179287201</url>
+			<count>9999</count>
+			<price>21500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">Redmi Note 11 Pro</param>
+			<param name="Память (ОЗУ), объем">8</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">белый</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="139021308811" group_id="295479707061" available="true">
+			<name>Apple iPhone 12 64 белый - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3339-3664-4765-a534-383634656639/53005714.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-295479707061-apple-iphone-12-64-belii?editionuid=139021308811</url>
+			<count>9999</count>
+			<price>44890.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Казахстан</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Казахстан</param>
+			<param name="Цвет">белый</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="310534676671" group_id="843228487541" available="true">
+			<name>Apple iPhone 12 128 черный - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6434-3938-4332-b637-663832626161/98368651.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-843228487541-apple-iphone-12-128-chernii?editionuid=310534676671</url>
+			<count>9999</count>
+			<price>49990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Индия/Греция</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Индия/Греция</param>
+			<param name="Цвет">черный</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="247927167521" group_id="949745136791" available="true">
+			<name>Apple iPhone 12 128 белый - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3339-3664-4765-a534-383634656639/53005714.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-949745136791-apple-iphone-12-128-belii?editionuid=247927167521</url>
+			<count>9999</count>
+			<price>50690.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Великобритания</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Великобритания</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="382256983391" group_id="271605892701" available="true">
+			<name>Apple iPhone 12 128 голубой - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6137-3563-4536-a534-653762326137/19248009.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-271605892701-apple-iphone-12-128-goluboi?editionuid=382256983391</url>
+			<count>9999</count>
+			<price>49990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Польша/Индия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Польша/Индия</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">голубой</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="923507619301" group_id="850778294611" available="true">
+			<name>Apple iPhone 12 128 зеленый - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3135-3537-4135-b337-613166366636/24507696.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-850778294611-apple-iphone-12-128-zelenii?editionuid=923507619301</url>
+			<count>9999</count>
+			<price>49990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Индия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Индия</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">зеленый</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="316112540811" group_id="511668225521" available="true">
+			<name>Apple iPhone 12 128 фиолетовый - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3837-6638-4630-a662-646632353061/85386453.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-511668225521-apple-iphone-12-128-fioletovii?editionuid=316112540811</url>
+			<count>9999</count>
+			<price>51490.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Индия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Индия</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">фиолетовый</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="748229089941" group_id="309234809151" available="true">
+			<name>Apple iPhone 13 mini 128 темная ночь (Midnight) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6165-6236-4932-b063-313538653239/76783121.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-309234809151-apple-iphone-13-mini-128-temnaya-noch-mi?editionuid=748229089941</url>
+			<count>9999</count>
+			<price>57490.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Казахстан/Япония</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Казахстан/Япония</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">темная ночь</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="118832000701" group_id="355012383791" available="true">
+			<name>Apple iPhone 13 mini 128 сияющая звезда (Starlight) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3031-3563-4361-b932-656235316535/63328967.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-355012383791-apple-iphone-13-mini-128-siyayuschaya-zv?editionuid=118832000701</url>
+			<count>9999</count>
+			<price>57490.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Япония/Евросоюз</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Япония/Евросоюз</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">сияющая звезда</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="287121889281" group_id="396649936041" available="true">
+			<name>Apple iPhone 13 mini 128 голубой - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3334-6531-4965-a665-346537316465/70690983.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-396649936041-apple-iphone-13-mini-128-goluboi?editionuid=287121889281</url>
+			<count>9999</count>
+			<price>57490.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Евросоюз</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Евросоюз</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">голубой</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="969896051391" group_id="132317894001" available="true">
+			<name>Apple iPhone 13 mini 128 зеленый - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3533-3664-4137-b339-623762663630/19978537.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-132317894001-apple-iphone-13-mini-128-zelenii?editionuid=969896051391</url>
+			<count>9999</count>
+			<price>57490.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Япония</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Япония</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">зеленый</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="270870933081" group_id="796353455731" available="true">
+			<name>Apple iPhone 13 mini 128 розовый - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3532-3766-4462-b636-386563316338/76365966.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-796353455731-apple-iphone-13-mini-128-rozovii?editionuid=270870933081</url>
+			<count>9999</count>
+			<price>57490.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Евросоюз</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Евросоюз</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">розовый</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="697213935511" group_id="303196008841" available="true">
+			<name>Apple iPhone 13 128 темная ночь (Midnight) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3861-3132-4135-b132-613033316162/64295819.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-303196008841-apple-iphone-13-128-temnaya-noch-midnigh?editionuid=697213935511</url>
+			<count>9999</count>
+			<price>59490.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Индия/Китай</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Индия/Китай</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">темная ночь</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="655522391851" group_id="990967029621" available="true">
+			<name>Apple iPhone 13 128 сияющая звезда (Starlight) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6532-3664-4336-a263-653932346139/13861417.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-990967029621-apple-iphone-13-128-siyayuschaya-zvezda?editionuid=655522391851</url>
+			<count>9999</count>
+			<price>59490.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Индия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Индия</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">сияющая звезда</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="848233802301" group_id="961821778101" available="true">
+			<name>Apple iPhone 13 128 голубой - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6535-3031-4635-a138-653061346531/93745241.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-961821778101-apple-iphone-13-128-goluboi?editionuid=848233802301</url>
+			<count>9999</count>
+			<price>59490.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Индия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Индия</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">голубой</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="113884558071" group_id="150226060621" available="true">
+			<name>Apple iPhone 13 128 зеленый - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3565-3534-4261-a337-643837303739/42491813.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-150226060621-apple-iphone-13-128-zelenii?editionuid=113884558071</url>
+			<count>9999</count>
+			<price>59990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Евросоюз/Италия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Евросоюз/Италия</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">зеленый</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="120811164841" group_id="615816561571" available="true">
+			<name>Apple iPhone 13 128 розовый - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3136-3933-4835-b366-303637396639/37225904.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-615816561571-apple-iphone-13-128-rozovii?editionuid=120811164841</url>
+			<count>9999</count>
+			<price>59490.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Южная Корея/Индия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Южная Корея/Индия</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">розовый</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="528404282021" group_id="323528915051" available="true">
+			<name>Apple iPhone 13 256 сияющая звезда (Starlight) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6461-6539-4362-a364-643962303938/82338311.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-323528915051-apple-iphone-13-256-siyayuschaya-zvezda?editionuid=528404282021</url>
+			<count>9999</count>
+			<price>72690.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Южная Корея</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Южная Корея</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">сияющая звезда</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="179097105661" group_id="853254603001" available="true">
+			<name>Apple iPhone 13 256 голубой - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3239-6537-4332-a165-323966336231/45745843.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-853254603001-apple-iphone-13-256-goluboi?editionuid=179097105661</url>
+			<count>9999</count>
+			<price>71690.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Польша</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Польша</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">голубой</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="843158295731" group_id="377676509541" available="true">
+			<name>Apple iPhone 13 256 зеленый - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3533-3664-4137-b339-623762663630/19978537.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-377676509541-apple-iphone-13-256-zelenii?editionuid=843158295731</url>
+			<count>9999</count>
+			<price>71690.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Евросоюз</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Евросоюз</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">зеленый</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="187931584741" group_id="750915916201" available="true">
+			<name>Apple iPhone 13 256 розовый - Новый</name>
+			<picture>https://static.tildacdn.com/stor6266-3765-4563-b435-613166633862/26880528.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-750915916201-apple-iphone-13-256-rozovii?editionuid=187931584741</url>
+			<count>9999</count>
+			<price>71690.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Южная Корея</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Южная Корея</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">розовый</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="261721736161" group_id="469517445111" available="true">
+			<name>iPhone 13 Pro 128 графит (graphite) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3933-3232-4961-b864-643836346130/44538062.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-469517445111-iphone-13-pro-128-grafit-graphite?editionuid=261721736161</url>
+			<count>9999</count>
+			<price>73990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">графит</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="275894381771" group_id="915800513901" available="true">
+			<name>Apple iPhone 13 Pro 128 голубой (Sierra Blue) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3865-3563-4134-a262-653934616164/32591740.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-915800513901-apple-iphone-13-pro-128-goluboi-sierra-b?editionuid=275894381771</url>
+			<count>9999</count>
+			<price>73990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>ОАЭ</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">ОАЭ</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">голубой</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="867533603351" group_id="336661764481" available="true">
+			<name>Apple iPhone 13 Pro 128 серебристый (Silver) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3830-3065-4766-b064-323538343761/83390929.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-336661764481-apple-iphone-13-pro-128-serebristii-silv?editionuid=867533603351</url>
+			<count>9999</count>
+			<price>73990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">серебристый</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="210600975231" group_id="996188278131" available="true">
+			<name>Apple iPhone 13 Pro 128 золотой - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3134-6563-4362-b933-316531373234/98507543.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-996188278131-apple-iphone-13-pro-128-zolotoi?editionuid=210600975231</url>
+			<count>9999</count>
+			<price>72890.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">золотой</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="460407083981" group_id="864491268561" available="true">
+			<name>Apple iPhone 13 Pro 512 графит Graphite - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6562-3531-4861-a164-333931336661/56324073.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-864491268561-apple-iphone-13-pro-512-grafit-graphite?editionuid=460407083981</url>
+			<count>9999</count>
+			<price>98990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Словакия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Словакия</param>
+			<param name="Память (внутренняя), объем">512</param>
+			<param name="Цвет">графит</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="474210234081" group_id="865840408391" available="true">
+			<name>Apple iPhone 13 Pro 256 небесно-голубой Sierra Blue - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6461-3735-4932-b837-303432373266/79046109.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-865840408391-apple-iphone-13-pro-256-nebesno-goluboi?editionuid=474210234081</url>
+			<count>9999</count>
+			<price>81490.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>ОАЭ</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">ОАЭ</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">небесно-голубой</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="592511380171" group_id="798161444801" available="true">
+			<name>Apple iPhone 13 Pro 256 золото (gold) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3063-3638-4238-b637-626136373663/33502155.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-798161444801-apple-iphone-13-pro-256-zoloto-gold?editionuid=592511380171</url>
+			<count>9999</count>
+			<price>80990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Евросоюз</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Евросоюз</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">золото (gold)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="663376363861" group_id="256129666351" available="true">
+			<name>Apple iPhone 13 Pro Max 128 графит (Graphite) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6133-3463-4738-b533-343664353031/63164902.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-256129666351-apple-iphone-13-pro-max-128-grafit-graph?editionuid=663376363861</url>
+			<count>9999</count>
+			<price>77290.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">графит</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="322033053811" group_id="329043709581" available="true">
+			<name>Apple iPhone 13 Pro Max 128 небесно-голубой (Sierra Blue) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3730-3033-4637-b434-633962366465/93668553.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-329043709581-apple-iphone-13-pro-max-128-nebesno-golu?editionuid=322033053811</url>
+			<count>9999</count>
+			<price>77290.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Япония</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Япония</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">небесно-голубой</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="696105738551" group_id="382667700581" available="true">
+			<name>Apple iPhone 13 Pro Max 128 зеленый - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6462-6665-4265-b730-636665303964/42893611.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-382667700581-apple-iphone-13-pro-max-128-zelenii?editionuid=696105738551</url>
+			<count>9999</count>
+			<price>77290.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Япония</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Япония</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">зеленый</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="192287880451" group_id="389983820841" available="true">
+			<name>Apple iPhone 13 Pro Max 128 золото (Gold) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3235-3530-4938-b963-656135643433/97139634.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-389983820841-apple-iphone-13-pro-max-128-zoloto-gold?editionuid=192287880451</url>
+			<count>9999</count>
+			<price>77290.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">золото</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="186133632271" group_id="167464977731" available="true">
+			<name>Apple iPhone 13 Pro Max 256 графит (Graphite) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6438-6530-4335-b638-616536373332/80159115.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-167464977731-apple-iphone-13-pro-max-256-grafit-graph?editionuid=186133632271</url>
+			<count>9999</count>
+			<price>85990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Гонконг/США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Гонконг/США</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">графит</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="921030410911" group_id="795444863451" available="true">
+			<name>Apple iPhone 13 Pro Max 256 небесно-голубой (Sierra Blue) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6437-6239-4532-a663-626161323437/11243869.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-795444863451-apple-iphone-13-pro-max-256-nebesno-golu?editionuid=921030410911</url>
+			<count>9999</count>
+			<price>85990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">небесно-голубой</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="253234821421" group_id="203524548611" available="true">
+			<name>Apple iPhone 13 Pro Max 256 зеленый (green) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6462-6665-4265-b730-636665303964/42893611.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-203524548611-apple-iphone-13-pro-max-256-zelenii-gree?editionuid=253234821421</url>
+			<count>9999</count>
+			<price>85990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Великобритания</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Великобритания</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">зеленый</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="498348170651" group_id="879240222721" available="true">
+			<name>Apple iPhone 13 Pro Max 256 золото (Gold) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3063-3638-4238-b637-626136373663/33502155.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-879240222721-apple-iphone-13-pro-max-256-zoloto-gold?editionuid=498348170651</url>
+			<count>9999</count>
+			<price>85990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Япония</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Япония</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">золото (gold)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="207599350191" group_id="204647670921" available="true">
+			<name>Apple iPhone 13 Pro Max 512 графит (graphite) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6364-6133-4232-a465-326530313466/51751761.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-204647670921-apple-iphone-13-pro-max-512-grafit-graph?editionuid=207599350191</url>
+			<count>9999</count>
+			<price>97990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Эстония/США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Эстония/США</param>
+			<param name="Память (внутренняя), объем">512</param>
+			<param name="Цвет">графит (graphite)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="327933517821" group_id="700642435851" available="true">
+			<name>Apple iPhone 13 Pro Max 512 небесно-голубой (sierra blue) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3263-3062-4465-b662-366536363265/66608037.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-700642435851-apple-iphone-13-pro-max-512-nebesno-golu?editionuid=327933517821</url>
+			<count>9999</count>
+			<price>98990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>США/Казахстан</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США/Казахстан</param>
+			<param name="Память (внутренняя), объем">512</param>
+			<param name="Цвет">небесно-голубой (sierra blue)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="239886976561" group_id="598659547761" available="true">
+			<name>Apple iPhone 13 Pro Max 512 альпийский зеленый (alpine green) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3465-3434-4339-b137-636633636363/53287052.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-598659547761-apple-iphone-13-pro-max-512-alpiiskii-ze?editionuid=239886976561</url>
+			<count>9999</count>
+			<price>98990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Память (внутренняя), объем">512</param>
+			<param name="Цвет">альпийский зеленый (alpine green)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="644014575421" group_id="150311284841" available="true">
+			<name>Apple iPhone 13 Pro Max 512 серебристый (silver) - Новый</name>
+			<picture>https://static.tildacdn.com/stor6536-3037-4339-a434-636661653030/39251288.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-150311284841-apple-iphone-13-pro-max-512-serebristii?editionuid=644014575421</url>
+			<count>9999</count>
+			<price>99990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Память (внутренняя), объем">512</param>
+			<param name="Цвет">серебристый (silver)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="738576607721" group_id="322026283181" available="true">
+			<name>Apple iPhone 13 Pro Max 1TB графит (graphite) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6334-3533-4065-a239-373631663561/84777471.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-322026283181-apple-iphone-13-pro-max-1tb-grafit-graph?editionuid=738576607721</url>
+			<count>9999</count>
+			<price>108990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Япония</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Япония</param>
+			<param name="Память (внутренняя), объем">1024</param>
+			<param name="Цвет">графит (graphite)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="287630664991" group_id="497374199241" available="true">
+			<name>Apple iPhone 13 Pro Max 1TB небесно-голубой (sierra blue) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3263-3062-4465-b662-366536363265/66608037.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-497374199241-apple-iphone-13-pro-max-1tb-nebesno-golu?editionuid=287630664991</url>
+			<count>9999</count>
+			<price>109990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Память (внутренняя), объем">1024</param>
+			<param name="Цвет">небесно-голубой (sierra blue)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="702367315531" group_id="122168736401" available="true">
+			<name>Apple Watch SE 40 серый космос (space gray) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3562-6434-4234-b332-316562353937/57597136.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-122168736401-apple-watch-se-40-serii-kosmos-space-gra?editionuid=702367315531</url>
+			<count>9999</count>
+			<price>24590.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>445882431911</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Цвет">серый космос (space gray)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="647403743501" group_id="433266772531" available="true">
+			<name>Apple Watch SE 40 золото (gold) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6633-6239-4566-a432-346339316137/18781257.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-433266772531-apple-watch-se-40-zoloto-gold?editionuid=647403743501</url>
+			<count>9999</count>
+			<price>24590.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>445882431911</categoryId>
+			<country_of_origin>Гонконг</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Гонконг</param>
+			<param name="Цвет">золото (gold)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="546696960141" group_id="823355466741" available="true">
+			<name>Apple Watch SE 44 серый космос (space gray) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3364-6430-4537-b438-376234623637/40792719.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-823355466741-apple-watch-se-44-serii-kosmos-space-gra?editionuid=546696960141</url>
+			<count>9999</count>
+			<price>26090.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>445882431911</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Цвет">серый космос (space gray)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="447127839091" group_id="166823304481" available="true">
+			<name>Apple Watch SE 44 серебристый (silver) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3435-3533-4230-b532-353834383665/72478464.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-166823304481-apple-watch-se-44-serebristii-silver?editionuid=447127839091</url>
+			<count>9999</count>
+			<price>26090.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>445882431911</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Цвет">серебристый (silver)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="730518924541" group_id="246839083171" available="true">
+			<name>Apple Watch SE 44 золото (gold) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3631-3230-4265-a133-346130643061/47438645.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-246839083171-apple-watch-se-44-zoloto-gold?editionuid=730518924541</url>
+			<count>9999</count>
+			<price>26990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>445882431911</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Цвет">золото (gold)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="359451449961" group_id="872459852391" available="true">
+			<name>Apple Watch S7 41 Midnight - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6362-6632-4763-b963-336166616336/50675540.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-872459852391-apple-watch-s7-41-midnight?editionuid=359451449961</url>
+			<count>9999</count>
+			<price>29990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Цвет">Midnight</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="753419179151" group_id="175400522171" available="true">
+			<name>Apple Watch S7 41 голубой (blue) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6263-6632-4261-a136-643132626231/50946258.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-175400522171-apple-watch-s7-41-goluboi-blue?editionuid=753419179151</url>
+			<count>9999</count>
+			<price>29990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>445882431911</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Цвет">голубой (blue)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="899597919831" group_id="238988161951" available="true">
+			<name>Apple Watch S7 41 зеленый (green) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6336-3436-4135-b131-346136623739/47786948.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-238988161951-apple-watch-s7-41-zelenii-green?editionuid=899597919831</url>
+			<count>9999</count>
+			<price>29990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>445882431911</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Цвет">зеленый (green)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="298735790751" group_id="663397261871" available="true">
+			<name>Apple Watch S7 45 Midnight - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3333-6639-4762-b561-623838383135/15038654.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-663397261871-apple-watch-s7-45-midnight?editionuid=298735790751</url>
+			<count>9999</count>
+			<price>31490.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>445882431911</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Цвет">Midnight</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="969903603431" group_id="605443368751" available="true">
+			<name>Apple Watch S7 45 сияющая звезда (starlight) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3036-3964-4432-a563-343638313363/71841321.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-605443368751-apple-watch-s7-45-siyayuschaya-zvezda-st?editionuid=969903603431</url>
+			<count>9999</count>
+			<price>31990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>445882431911</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Цвет">сияющая звезда (starlight)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="284921299071" group_id="532218735791" available="true">
+			<name>Apple Watch S7 45 голубой (blue) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6131-3161-4131-b239-663830393565/57572403.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-532218735791-apple-watch-s7-45-goluboi-blue?editionuid=284921299071</url>
+			<count>9999</count>
+			<price>31490.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>445882431911</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Цвет">голубой (blue)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="616588499111" group_id="338133747651" available="true">
+			<name>Apple Watch S7 45 зеленый (green) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3939-6661-4538-b338-396264636263/35534958.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-338133747651-apple-watch-s7-45-zelenii-green?editionuid=616588499111</url>
+			<count>9999</count>
+			<price>31490.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>445882431911</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Цвет">зеленый (green)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="205808611901" group_id="569557730261" available="true">
+			<name>Apple MacBook Air 13.3" M1 8/256 серый космос (space gray) (с гравировкой) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3666-6235-4939-b839-616339356664/23173579.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-569557730261-apple-macbook-air-133-m1-8256-serii-kosm?editionuid=205808611901</url>
+			<count>9999</count>
+			<price>78990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>673397444171</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Цвет">серый космос (space gray)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="286287177021" group_id="436019992041" available="true">
+			<name>Apple MacBook Air 13.3" M1 8/256 серебристый (silver) (с гравировкой) - Новый</name>
+			<vendor>Apple</vendor>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-436019992041-apple-macbook-air-133-m1-8256-serebristi?editionuid=286287177021</url>
+			<count>9999</count>
+			<price>78990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>673397444171</categoryId>
+			<country_of_origin>Гонконг/США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Гонконг/США</param>
+			<param name="Цвет">серебристый (silver)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="443100671291" group_id="600489601841" available="true">
+			<name>Apple MacBook Air 13.3" M1 8/256 золото (gold) (с гравировкой) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3666-6235-4939-b839-616339356664/23173579.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-600489601841-apple-macbook-air-133-m1-8256-zoloto-gol?editionuid=443100671291</url>
+			<count>9999</count>
+			<price>78990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>673397444171</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Цвет">золото (gold)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="380760392271" group_id="104518587641" available="true">
+			<name>Apple MacBook Pro 16" M1 Pro 16/1TB серый космос (space gray) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3666-6235-4939-b839-616339356664/23173579.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-104518587641-apple-macbook-pro-16-m1-pro-161tb-serii?editionuid=380760392271</url>
+			<count>9999</count>
+			<price>197990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>673397444171</categoryId>
+			<country_of_origin>Великобритания</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Великобритания</param>
+			<param name="Цвет">серый космос (space gray)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="643244671951" group_id="755586988351" available="true">
+			<name>Apple MacBook Air 13.6" M2 8/256 серый космос (space gray) (с гравировкой) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3666-6235-4939-b839-616339356664/23173579.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-755586988351-apple-macbook-air-136-m2-8256-serii-kosm?editionuid=643244671951</url>
+			<count>9999</count>
+			<price>94990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>673397444171</categoryId>
+			<country_of_origin>Гонконг</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Гонконг</param>
+			<param name="Цвет">серый космос (space gray)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="826294668541" group_id="511182480611" available="true">
+			<name>Apple MacBook Air 13.6" M2 8/256 Midnight (с гравировкой) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3666-6235-4939-b839-616339356664/23173579.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-511182480611-apple-macbook-air-136-m2-8256-midnight-s?editionuid=826294668541</url>
+			<count>9999</count>
+			<price>94990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>673397444171</categoryId>
+			<country_of_origin>Гонконг</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Гонконг</param>
+			<param name="Цвет">Midnight</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="983450341561" group_id="895959314621" available="true">
+			<name>Apple MacBook Air 13.6" M2 8/256 серебристый (silver) (с гравировкой) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3666-6235-4939-b839-616339356664/23173579.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-895959314621-apple-macbook-air-136-m2-8256-serebristi?editionuid=983450341561</url>
+			<count>9999</count>
+			<price>94990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>673397444171</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Цвет">серебристый (silver)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="150491329431" group_id="208592948891" available="true">
+			<name>Apple MacBook Pro 13.3" M2 8/256 серебристый (silver) (с гравировкой) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3666-6235-4939-b839-616339356664/23173579.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-208592948891-apple-macbook-pro-133-m2-8256-serebristi?editionuid=150491329431</url>
+			<count>9999</count>
+			<price>95990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>673397444171</categoryId>
+			<country_of_origin>ОАЭ</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">ОАЭ</param>
+			<param name="Цвет">серебристый (silver)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="668057778601" group_id="100368957491" available="true">
+			<name>Apple iPad 9 2021 Wi-Fi 64Gb серый космос (space gray) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3762-6239-4531-a365-666162636266/69928338.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-100368957491-apple-ipad-9-2021-wi-fi-64gb-serii-kosmo?editionuid=668057778601</url>
+			<count>9999</count>
+			<price>27990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>934508597961</categoryId>
+			<country_of_origin>Евросоюз</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Евросоюз</param>
+			<param name="Память (внутренняя), объем">64</param>
+			<param name="Цвет">серый космос (space gray)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="483758690941" group_id="763222087881" available="true">
+			<name>Apple iPad 9 2021 Wi-Fi 64Gb серебристый (silver) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3035-6637-4163-a138-336666303461/94784750.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-763222087881-apple-ipad-9-2021-wi-fi-64gb-serebristii?editionuid=483758690941</url>
+			<count>9999</count>
+			<price>27990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>934508597961</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Память (внутренняя), объем">64</param>
+			<param name="Цвет">серебристый (silver)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="195323561471" group_id="178584071011" available="true">
+			<name>Apple iPad Air 2022 Wi-Fi 64Gb серый космос (space gray) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6236-6661-4239-b763-393966326536/24940784.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-178584071011-apple-ipad-air-2022-wi-fi-64gb-serii-kos?editionuid=195323561471</url>
+			<count>9999</count>
+			<price>46990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>934508597961</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Память (внутренняя), объем">64</param>
+			<param name="Цвет">серый космос (space gray)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="470987181511" group_id="711806830171" available="true">
+			<name>Apple iPad Air 2022 Wi-Fi 64Gb сияющая звезда (starlight) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6630-3738-4631-a432-636435313430/35608208.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-711806830171-apple-ipad-air-2022-wi-fi-64gb-siyayusch?editionuid=470987181511</url>
+			<count>9999</count>
+			<price>46990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>934508597961</categoryId>
+			<country_of_origin>Гонконг</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Гонконг</param>
+			<param name="Память (внутренняя), объем">64</param>
+			<param name="Цвет">сияющая звезда (starlight)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="327042411391" group_id="343655512721" available="true">
+			<name>Apple iPad Air 2022 Wi-Fi 64Gb голубой (blue) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6437-3336-4532-a365-366661353638/44637917.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-343655512721-apple-ipad-air-2022-wi-fi-64gb-goluboi-b?editionuid=327042411391</url>
+			<count>9999</count>
+			<price>46990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>934508597961</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Память (внутренняя), объем">64</param>
+			<param name="Цвет">голубой (blue)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="430565780801" group_id="821837041171" available="true">
+			<name>Apple iPad Air 2022 Wi-Fi 64Gb розовый (pink) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3938-6163-4334-b863-343061376339/81129023.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-821837041171-apple-ipad-air-2022-wi-fi-64gb-rozovii-p?editionuid=430565780801</url>
+			<count>9999</count>
+			<price>46990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>934508597961</categoryId>
+			<country_of_origin>Гонконг</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Гонконг</param>
+			<param name="Память (внутренняя), объем">64</param>
+			<param name="Цвет">розовый (pink)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="859825375921" group_id="850781356121" available="true">
+			<name>Apple iPad Air 2022 Wi-Fi 64Gb фиолетовый (purple) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3739-6232-4663-a566-383936366361/30834969.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-850781356121-apple-ipad-air-2022-wi-fi-64gb-fioletovi?editionuid=859825375921</url>
+			<count>9999</count>
+			<price>47790.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>934508597961</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Память (внутренняя), объем">64</param>
+			<param name="Цвет">фиолетовый (purple)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="331514244951" group_id="391740740601" available="true">
+			<name>Apple iPad Air 2022 Wi-Fi 256Gb серый космос (space gray) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6236-6661-4239-b763-393966326536/24940784.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-391740740601-apple-ipad-air-2022-wi-fi-256gb-serii-ko?editionuid=331514244951</url>
+			<count>9999</count>
+			<price>56990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>934508597961</categoryId>
+			<country_of_origin>Вьетнам</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Вьетнам</param>
+			<param name="Память (внутренняя), объем">64</param>
+			<param name="Цвет">серый космос (space gray)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="681880028031" group_id="268181726221" available="true">
+			<name>Apple iPad Apple Pencil - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6639-3161-4965-a163-656235373565/32358653.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-268181726221-apple-ipad-apple-pencil?editionuid=681880028031</url>
+			<count>9999</count>
+			<price>10390.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>934508597961</categoryId>
+			<country_of_origin>Япония</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Япония</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="178712987111" group_id="889900464691" available="true">
+			<name>Apple iPad Apple Pencil 2 - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6262-6534-4633-a332-363833653733/32427426.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-889900464691-apple-ipad-apple-pencil-2?editionuid=178712987111</url>
+			<count>9999</count>
+			<price>11490.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>934508597961</categoryId>
+			<country_of_origin>Япония</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Япония</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="985002690781" group_id="983912977001" available="true">
+			<name>Apple AirPods 2 - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3231-3266-4931-b766-653539613463/21130648.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-983912977001-apple-airpods-2?editionuid=985002690781</url>
+			<count>9999</count>
+			<price>11390.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>690994126941</categoryId>
+			<country_of_origin>Индия/Гонконг</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Индия/Гонконг</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="285922028591" group_id="569991825911" available="true">
+			<name>Apple AirPods 3 - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3231-3462-4838-b430-643561326536/23078378.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-569991825911-apple-airpods-3?editionuid=285922028591</url>
+			<count>9999</count>
+			<price>14490.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>690994126941</categoryId>
+			<country_of_origin>Япония</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Япония</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="305064288571" group_id="807287894461" available="true">
+			<name>Apple MagSafe Battery Pack - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3430-3235-4830-b439-646630306637/35716856.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-807287894461-apple-magsafe-battery-pack?editionuid=305064288571</url>
+			<count>9999</count>
+			<price>10390.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>339116976071</categoryId>
+			<country_of_origin>Россия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Россия</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="830125429171" group_id="358683178591" available="true">
+			<name>Apple iPhone 14 128Gb голубой (blue) - Новый</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6464-3733-4266-b961-343139343163/46781241.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-358683178591-apple-iphone-14-128gb-goluboi-blue?editionuid=830125429171</url>
+			<count>9999</count>
+			<price>95990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Саудовская Аравия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Саудовская Аравия</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">голубой (blue)</param>
+			<param name="Состояние">Новый</param>
+		</offer>
+		<offer id="513601319361" group_id="725596528601" available="true">
+			<name>Apple AirPods Pro - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3265-3033-4265-b963-656564663236/93604292.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-725596528601-apple-airpods-pro?editionuid=513601319361</url>
+			<count>9999</count>
+			<price>14000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>690994126941</categoryId>
+			<country_of_origin>Евросоюз</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Евросоюз</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="194311931241" group_id="810728929521" available="true">
+			<name>Apple iPhone 14 128Gb Midnight - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3532-6636-4265-a130-373963313333/34386289.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-810728929521-apple-iphone-14-128gb-midnight?editionuid=194311931241</url>
+			<count>9999</count>
+			<price>95990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Саудовская Аравия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Саудовская Аравия</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">Midnight</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="914517214451" group_id="493176582561" available="true">
+			<name>Apple iPhone 14 128Gb фиолетовый (purple) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6239-3837-4365-b264-616539306332/27565703.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-493176582561-apple-iphone-14-128gb-fioletovii-purple?editionuid=914517214451</url>
+			<count>9999</count>
+			<price>101999.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Саудовская Аравия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Саудовская Аравия</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">фиолетовый (purple)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="980662932741" group_id="884257464821" available="true">
+			<name>Apple iPhone 14 128Gb red (красный) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3866-6464-4237-b465-336531376634/54255548.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-884257464821-apple-iphone-14-128gb-red-krasnii?editionuid=980662932741</url>
+			<count>9999</count>
+			<price>95990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Саудовская Аравия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">14</param>
+			<param name="Страна">Саудовская Аравия</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">red (красный)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="907010588351" group_id="281907750681" available="true">
+			<name>Apple iPhone 14 128Gb starlight (сияющая звезда) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6362-3362-4433-b333-346534333561/43468923.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-281907750681-apple-iphone-14-128gb-starlight-siyayusc?editionuid=907010588351</url>
+			<count>9999</count>
+			<price>101999.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Саудовская Аравия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Модель">14</param>
+			<param name="Страна">Саудовская Аравия</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">starlight (сияющая звезда)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="401160131011" group_id="432028431471" available="true">
+			<name>Apple iPhone 14 256Gb blue (голубой) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3165-3038-4635-b764-636234316564/27987693.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-432028431471-apple-iphone-14-256gb-blue-goluboi?editionuid=401160131011</url>
+			<count>9999</count>
+			<price>109999.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Саудовская Аравия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Саудовская Аравия</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">blue (голубой)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="304664423271" group_id="337900358081" available="true">
+			<name>Apple iPhone 14 256Gb Midnight (черный) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3332-3739-4636-b834-336463313865/36400968.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-337900358081-apple-iphone-14-256gb-midnight-chernii?editionuid=304664423271</url>
+			<count>9999</count>
+			<price>102999.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Саудовская Аравия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Саудовская Аравия</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">Midnight (черный)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="562820710971" group_id="649431671321" available="true">
+			<name>Apple iPhone 14 256Gb Purple (фиолетовый) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6638-3366-4039-b236-336237303638/51723081.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-649431671321-apple-iphone-14-256gb-purple-fioletovii?editionuid=562820710971</url>
+			<count>9999</count>
+			<price>107000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Саудовская Аравия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Саудовская Аравия</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">Purple (фиолетовый)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="468929799311" group_id="578579501111" available="true">
+			<name>Apple iPhone 14 256Gb Red (красный) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3033-3031-4236-b831-313165373531/42468042.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-578579501111-apple-iphone-14-256gb-red-krasnii?editionuid=468929799311</url>
+			<count>9999</count>
+			<price>107000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Саудовская Аравия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Саудовская Аравия</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">Red (красный)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="136420832821" group_id="599222031951" available="true">
+			<name>Apple iPhone 14 256Gb Starlight (белый) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6332-6566-4535-a363-653362633564/26709575.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-599222031951-apple-iphone-14-256gb-starlight-belii?editionuid=136420832821</url>
+			<count>9999</count>
+			<price>103000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Саудовская Аравия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Саудовская Аравия</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">Starlight (белый)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="852558860911" group_id="362633913071" available="true">
+			<name>Apple iPhone 14 512Gb Blue (голубой) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3165-3038-4635-b764-636234316564/27987693.png</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-362633913071-apple-iphone-14-512gb-blue-goluboi?editionuid=852558860911</url>
+			<count>9999</count>
+			<price>120000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Саудовская Аравия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Саудовская Аравия</param>
+			<param name="Память (внутренняя), объем">512</param>
+			<param name="Цвет">Blue (голубой)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="443337787821" group_id="847316769471" available="true">
+			<name>Apple iPhone 14 512Gb Midnight (черный) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3332-3739-4636-b834-336463313865/36400968.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-847316769471-apple-iphone-14-512gb-midnight-chernii?editionuid=443337787821</url>
+			<count>9999</count>
+			<price>132999.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Саудовская Аравия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Саудовская Аравия</param>
+			<param name="Память (внутренняя), объем">512</param>
+			<param name="Цвет">Midnight (черный)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="541391400791" group_id="441737651461" available="true">
+			<name>Apple iPhone 14 512Gb Purple (фиолетовый) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6566-3434-4131-b334-303731663037/27887644.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-441737651461-apple-iphone-14-512gb-purple-fioletovii?editionuid=541391400791</url>
+			<count>9999</count>
+			<price>125900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Саудовская Аравия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Саудовская Аравия</param>
+			<param name="Память (внутренняя), объем">512</param>
+			<param name="Цвет">Purple (фиолетовый)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="971615519641" group_id="324344622051" available="true">
+			<name>Apple iPhone 14 Pro 128Gb Black (черный) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6563-3666-4437-a562-653263616564/28365019.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-324344622051-apple-iphone-14-pro-128gb-black-chernii?editionuid=971615519641</url>
+			<count>9999</count>
+			<price>130990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Германия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Германия</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">Black (черный)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="226877920541" group_id="970329906601" available="true">
+			<name>Apple iPhone 14 Pro 128Gb Gold (золото) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6439-6533-4830-b230-336638666534/20861647.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-970329906601-apple-iphone-14-pro-128gb-gold-zoloto?editionuid=226877920541</url>
+			<count>9999</count>
+			<price>130990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Германия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Германия</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">Gold (золото)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="256858488831" group_id="853690783701" available="true">
+			<name>Apple iPhone 14 Pro 128Gb Purple (фиолетовый) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3665-3065-4664-a561-373665303162/53759379.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-853690783701-apple-iphone-14-pro-128gb-purple-fioleto?editionuid=256858488831</url>
+			<count>9999</count>
+			<price>130900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Германия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Германия</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">Purple (фиолетовый)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="582783169481" group_id="127434201711" available="true">
+			<name>Apple iPhone 14 Pro 128Gb Silver (серебристый) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3034-6237-4534-a663-653965613464/11069332.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-127434201711-apple-iphone-14-pro-128gb-silver-serebri?editionuid=582783169481</url>
+			<count>9999</count>
+			<price>130990.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Германия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Германия</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">Silver (серебристый)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="227280103291" group_id="242762388961" available="true">
+			<name>Apple iPhone 14 Pro 1Tb Gold (золото) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6439-6533-4830-b230-336638666534/20861647.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-242762388961-apple-iphone-14-pro-1tb-gold-zoloto?editionuid=227280103291</url>
+			<count>9999</count>
+			<price>169000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Память (внутренняя), объем">1024</param>
+			<param name="Цвет">Gold (золото)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="568580547481" group_id="173095233731" available="true">
+			<name>Apple iPhone 14 Pro 1Tb Purple (фиолетовый) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3665-6562-4961-b639-373438663535/44319066.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-173095233731-apple-iphone-14-pro-1tb-purple-fioletovi?editionuid=568580547481</url>
+			<count>9999</count>
+			<price>169050.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Память (внутренняя), объем">1024</param>
+			<param name="Цвет">Purple (фиолетовый)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="814482828861" group_id="450633894871" available="true">
+			<name>Apple iPhone 14 Pro 256Gb Black (черный) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6233-6466-4538-a463-333835653335/33340170.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-450633894871-apple-iphone-14-pro-256gb-black-chernii?editionuid=814482828861</url>
+			<count>9999</count>
+			<price>135555.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">Black (черный)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="775586460011" group_id="119408326181" available="true">
+			<name>Apple iPhone 14 Pro 256Gb Gold (золото) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6439-6533-4830-b230-336638666534/20861647.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-119408326181-apple-iphone-14-pro-256gb-gold-zoloto?editionuid=775586460011</url>
+			<count>9999</count>
+			<price>139000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">Gold (золото)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="153986208521" group_id="731542199201" available="true">
+			<name>Apple iPhone 14 Pro 256Gb Purple (фиолетовый) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3665-3065-4664-a561-373665303162/53759379.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-731542199201-apple-iphone-14-pro-256gb-purple-fioleto?editionuid=153986208521</url>
+			<count>9999</count>
+			<price>135900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">Purple (фиолетовый)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="702934455411" group_id="147298307011" available="true">
+			<name>Apple iPhone 14 Pro 256Gb Silver (серебристый) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3034-6237-4534-a663-653965613464/11069332.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-147298307011-apple-iphone-14-pro-256gb-silver-serebri?editionuid=702934455411</url>
+			<count>9999</count>
+			<price>145000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Германия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Германия</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">Silver (серебристый)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="978229375681" group_id="835381399631" available="true">
+			<name>Apple iPhone 14 Pro 512Gb Black (черный) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3762-3330-4430-b639-393466353363/51172564.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-835381399631-apple-iphone-14-pro-512gb-black-chernii?editionuid=978229375681</url>
+			<count>9999</count>
+			<price>170000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Гонконг</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Гонконг</param>
+			<param name="Память (внутренняя), объем">512</param>
+			<param name="Цвет">Black (черный)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="719921884911" group_id="259818233071" available="true">
+			<name>Apple iPhone 14 Pro 512Gb Gold (золото) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6663-6561-4536-b732-663232356437/47793201.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-259818233071-apple-iphone-14-pro-512gb-gold-zoloto?editionuid=719921884911</url>
+			<count>9999</count>
+			<price>170000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Гонконг</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Гонконг</param>
+			<param name="Память (внутренняя), объем">512</param>
+			<param name="Цвет">Gold (золото)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="223525706651" group_id="474878585711" available="true">
+			<name>Apple iPhone 14 Pro 512Gb Silver (серебристый) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3034-6237-4534-a663-653965613464/11069332.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-474878585711-apple-iphone-14-pro-512gb-silver-serebri?editionuid=223525706651</url>
+			<count>9999</count>
+			<price>170000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Гонконг</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Гонконг</param>
+			<param name="Память (внутренняя), объем">512</param>
+			<param name="Цвет">Silver (серебристый)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="409687701201" group_id="438738301931" available="true">
+			<name>Apple iPhone 14 Pro Max 128Gb Black (черный) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6638-3366-4039-b236-336237303638/51723081.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-438738301931-apple-iphone-14-pro-max-128gb-black-cher?editionuid=409687701201</url>
+			<count>9999</count>
+			<price>174000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Саудовская Аравия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Саудовская Аравия</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">Black (черный)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="118862154551" group_id="294352060071" available="true">
+			<name>Apple iPhone 14 Pro Max 128Gb Gold (золото) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6263-3861-4636-a266-393230346530/18378746.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-294352060071-apple-iphone-14-pro-max-128gb-gold-zolot?editionuid=118862154551</url>
+			<count>9999</count>
+			<price>145000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Германия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Германия</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">Gold (золото)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="708689359861" group_id="499201899921" available="true">
+			<name>Apple iPhone 14 Pro Max 128Gb Purple (фиолетовый) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3764-3736-4434-b632-343032336434/29270880.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-499201899921-apple-iphone-14-pro-max-128gb-purple-fio?editionuid=708689359861</url>
+			<count>9999</count>
+			<price>146000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Германия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Германия</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">Purple (фиолетовый)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="663144375281" group_id="175905073841" available="true">
+			<name>Apple iPhone 14 Pro Max 128Gb Silver (серебро) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3034-6237-4534-a663-653965613464/11069332.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-175905073841-apple-iphone-14-pro-max-128gb-silver-ser?editionuid=663144375281</url>
+			<count>9999</count>
+			<price>145730.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Германия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Германия</param>
+			<param name="Память (внутренняя), объем">128</param>
+			<param name="Цвет">Silver (серебро)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="206761813481" group_id="219836843481" available="true">
+			<name>Apple iPhone 14 Pro Max 1Tb Purple (фиолетовый) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3665-6562-4961-b639-373438663535/44319066.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-219836843481-apple-iphone-14-pro-max-1tb-purple-fiole?editionuid=206761813481</url>
+			<count>9999</count>
+			<price>260000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Гонконг</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Гонконг</param>
+			<param name="Память (внутренняя), объем">1024</param>
+			<param name="Цвет">Purple (фиолетовый)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="603857127891" group_id="241885236841" available="true">
+			<name>Apple iPhone 14 Pro Max 256Gb Black (черный) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6233-6466-4538-a463-333835653335/33340170.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-241885236841-apple-iphone-14-pro-max-256gb-black-cher?editionuid=603857127891</url>
+			<count>9999</count>
+			<price>170755.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Саудовская Аравия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Саудовская Аравия</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">Black (черный)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="138132068201" group_id="453426603511" available="true">
+			<name>Apple iPhone 14 Pro Max 256Gb Gold (золотой) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6663-6561-4536-b732-663232356437/47793201.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-453426603511-apple-iphone-14-pro-max-256gb-gold-zolot?editionuid=138132068201</url>
+			<count>9999</count>
+			<price>170755.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Саудовская Аравия</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Саудовская Аравия</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">Gold (золотой)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="284275466771" group_id="409944383191" available="true">
+			<name>Apple iPhone 14 Pro Max 256Gb Purple (фиолетовый) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3665-6562-4961-b639-373438663535/44319066.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-409944383191-apple-iphone-14-pro-max-256gb-purple-fio?editionuid=284275466771</url>
+			<count>9999</count>
+			<price>152000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>США</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">США</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">Purple (фиолетовый)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="477387578181" group_id="813618167831" available="true">
+			<name>Apple iPhone 14 Pro Max 256Gb Silver (серебристый) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3034-6237-4534-a663-653965613464/11069332.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-813618167831-apple-iphone-14-pro-max-256gb-silver-ser?editionuid=477387578181</url>
+			<count>9999</count>
+			<price>168500.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Гонконг</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Гонконг</param>
+			<param name="Память (внутренняя), объем">256</param>
+			<param name="Цвет">Silver (серебристый)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="703777354061" group_id="219719730451" available="true">
+			<name>Apple iPhone 14 Pro Max 512Gb Black (черный) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3037-3165-4036-b266-303564343762/52413621.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-219719730451-apple-iphone-14-pro-max-512gb-black-cher?editionuid=703777354061</url>
+			<count>9999</count>
+			<price>202000.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Гонконг</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Гонконг</param>
+			<param name="Память (внутренняя), объем">512</param>
+			<param name="Цвет">Black (черный)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="977527017901" group_id="276390479041" available="true">
+			<name>Apple iPhone 14 Pro Max 512Gb Gold (золотой) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor6439-6533-4830-b230-336638666534/20861647.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-276390479041-apple-iphone-14-pro-max-512gb-gold-zolot?editionuid=977527017901</url>
+			<count>9999</count>
+			<price>199900.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Гонконг</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Гонконг</param>
+			<param name="Память (внутренняя), объем">512</param>
+			<param name="Цвет">Gold (золотой)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="412297500761" group_id="505298997471" available="true">
+			<name>Apple iPhone 14 Pro Max 512Gb Purple (фиолетовый) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3665-6562-4961-b639-373438663535/44319066.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-505298997471-apple-iphone-14-pro-max-512gb-purple-fio?editionuid=412297500761</url>
+			<count>9999</count>
+			<price>193855.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Гонконг</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Гонконг</param>
+			<param name="Память (внутренняя), объем">512</param>
+			<param name="Цвет">Purple (фиолетовый)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		<offer id="897206236221" group_id="843880384691" available="true">
+			<name>Apple iPhone 14 Pro Max 512Gb Silver (серебристый) - Новый - Оригинал</name>
+			<vendor>Apple</vendor>
+			<picture>https://static.tildacdn.com/stor3034-6237-4534-a663-653965613464/11069332.jpg</picture>
+			<url>https://singaservice.ru/singa-market/tproduct/450814728-843880384691-apple-iphone-14-pro-max-512gb-silver-ser?editionuid=897206236221</url>
+			<count>9999</count>
+			<price>199999.00</price>
+			<currencyId>RUB</currencyId>
+			<categoryId>132169967461</categoryId>
+			<country_of_origin>Гонконг</country_of_origin>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>true</store>
+			<param name="Страна">Гонконг</param>
+			<param name="Память (внутренняя), объем">512</param>
+			<param name="Цвет">Silver (серебристый)</param>
+			<param name="Состояние">Новый</param>
+			<param name="Качество">Оригинал</param>
+		</offer>
+		</offers>
+	</shop>
+</yml_catalog>
